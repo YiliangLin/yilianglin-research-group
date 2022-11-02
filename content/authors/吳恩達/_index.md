@@ -39,7 +39,7 @@ education:
       year: 2008
 email: ""
 user_groups:
-  - Principle Investigator
+  - Principal Investigator
   - Visitors
 ---
 
