@@ -38,7 +38,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Principle_Investigator
 highlight_name: false
 ---
 
