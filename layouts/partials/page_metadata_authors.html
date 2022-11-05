@@ -16,7 +16,7 @@
             {{ substr .LinkTitle 1 3 }}
           {{- else -}}
             <a href="{{.RelPermalink}}">{{.LinkTitle | markdownify}}</a>
-          {{ - end -}}
+          {{- end -}}
         {{- else -}}
           {{ .LinkTitle| markdownify }}
         {{- end -}}
