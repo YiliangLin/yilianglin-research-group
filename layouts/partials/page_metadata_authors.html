@@ -2,14 +2,16 @@
 
 {{- $taxonomy := "authors" }}
 {{ if .Param $taxonomy }}
+  {{- $comma_flag := false}}
   {{ range $index, $value := (.GetTerms $taxonomy) }}
     {{- /* Highlight the author's name? */ -}}
     {{- $highlight_name := .Page.Params.highlight_name | default false -}}
-
-    {{- if gt $index 0 }}, {{ end -}}
+    {{- if $comma_flag}}, {{$comma_flag = false}}{{ end -}}
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
       {{- if hasPrefix .LinkTitle "[" -}}
+        {{$comma_flag = true}}
+        {{- $f :=-}}
         {{- if .RelPermalink -}}
           <a href="{{.RelPermalink}}">{{.LinkTitle | markdownify}}</a>
         {{- else -}}
