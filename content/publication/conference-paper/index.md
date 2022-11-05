@@ -14,6 +14,7 @@ publication_types:
   - "1"
 authors:
   - "**admin**"
+  - "**yukikaze**"
 publication: In *Source Themes Conference*
 featured: true
 tags:
