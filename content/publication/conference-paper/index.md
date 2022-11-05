@@ -13,7 +13,7 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
   - "1"
 authors:
-  - "{{< hl >}admin{{< /hl >}}"
+  - "# admin"
   - "{{< hl >}Robert Ford{{< /hl >}}"
 publication: In *Source Themes Conference*
 featured: true
