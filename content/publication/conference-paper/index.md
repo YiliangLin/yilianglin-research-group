@@ -6,7 +6,6 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
   - "1"
 authors:
-  - admin
   - "[**Yiliang Lin***](/author/yiliang-lin/)"
   - "[H.Keith†]()"
 publication: In *Source Themes Conference*
