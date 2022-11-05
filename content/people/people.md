@@ -17,10 +17,11 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Principal Investigators
-    - Researchers
-    - Grad Students
+    - Research Fellows
+    - Graduate Students
     - Administration
-    - Visitors
+    - Visiting Students and Scholars
+    - Research Project Students
     - Alumni
 design:
   show_interests: false
