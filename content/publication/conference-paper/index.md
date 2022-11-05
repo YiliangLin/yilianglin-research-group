@@ -13,9 +13,10 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
   - "1"
 authors:
-  - "Yiliang Lin in BOLD"
+  - "Yiliang Lin,BOLD"
   - "shimakaze in BOLD"
   - "**yukikaze**"
+  - "[tokitsukaze](https://www.baidu.com)" 
 publication: In *Source Themes Conference*
 featured: true
 tags:
