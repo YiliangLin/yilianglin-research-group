@@ -7,7 +7,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - "[**Yiliang Lin**](/author/yiliang-lin/)"
+  - "[**Yiliang Lin***](/author/yiliang-lin/)"
   - "[H.Keith†]()"
 publication: In *Source Themes Conference*
 featured: true
