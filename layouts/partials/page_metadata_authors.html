@@ -11,7 +11,6 @@
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
       {{- if hasPrefix .LinkTitle "[" -}}
         {{$comma_flag = true}}
-        {{- $f :=-}}
         {{- if .RelPermalink -}}
           <a href="{{.RelPermalink}}">{{.LinkTitle | markdownify}}</a>
         {{- else -}}
