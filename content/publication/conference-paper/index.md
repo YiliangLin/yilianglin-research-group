@@ -14,9 +14,7 @@ tags:
   - Source Themes
 projects:
   - internal-project
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: H.Keih is god of coding
 url_dataset: "#"
 url_project: ""
 publication_short: In *STC*
