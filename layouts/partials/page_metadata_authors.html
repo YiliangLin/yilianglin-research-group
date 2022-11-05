@@ -10,12 +10,12 @@
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
       {{- if eq .LinkTitle "Yiliang Lin,BOLD" -}}
-        <a href="/author/yiliang-lin/">Yiliang Lin</a>
+        <a href="/author/yiliang-lin/" class="author-highlighted">Yiliang Lin</a>
       {{- else -}}
         {{- if .RelPermalink -}}
-          <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+          <a href="{{.RelPermalink}}">{{.LinkTitle | markdownify}}</a>
         {{- else -}}
-          {{ .LinkTitle }}
+          {{ .LinkTitle| markdownify }}
         {{- end -}}
       {{- end -}}
     </span>
