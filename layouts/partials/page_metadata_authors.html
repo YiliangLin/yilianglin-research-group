@@ -12,7 +12,11 @@
       {{- if hasPrefix .LinkTitle "[" -}}
         {{$comma_flag = true}}
         {{- if .RelPermalink -}}
-          <a href="{{.RelPermalink}}">{{.LinkTitle | markdownify}}</a>
+          {{- if strings.HasSuffix .LinkTitle "()" -}}
+            {{ substr .LinkTitle 1 3 }}
+          {{- else -}}
+            <a href="{{.RelPermalink}}">{{.LinkTitle | markdownify}}</a>
+          {{ - end -}}
         {{- else -}}
           {{ .LinkTitle| markdownify }}
         {{- end -}}
