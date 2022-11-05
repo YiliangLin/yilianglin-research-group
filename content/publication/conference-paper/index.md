@@ -14,9 +14,10 @@ publication_types:
   - "1"
 authors:
   - "Yiliang Lin,BOLD"
+  - "Yiliang Lin,BOLD"
   - "shimakaze in BOLD"
   - "**yukikaze**"
-  - "[tokitsukaze](https://www.baidu.com)" 
+  - "[**tokitsukaze**](/author/yiliang-lin/)" 
 publication: In *Source Themes Conference*
 featured: true
 tags:
