@@ -1,5 +1,5 @@
 ---
-feedback: false
+share: false
 ---
 
 # Kancolle 始まり 
