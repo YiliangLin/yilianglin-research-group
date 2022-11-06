@@ -31,7 +31,7 @@ abstract: To date, numerous inorganic nanocarriers have been explored for drug
 draft: false
 featured: false
 image:
-caption: 'Image Credit: [**Yue Lu**]
+caption: 'Image Credit: [**Yue Lu**]'
   filename: featured
   focal_point: ''
   preview_only: false
