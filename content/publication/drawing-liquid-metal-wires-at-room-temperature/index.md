@@ -3,7 +3,7 @@ title: Drawing Liquid Metal Wires at Room Temperature
 publication_types:
   - "2"
 authors:
-  - "[**Yiliang Lin**](author/yiliang-lin)"
+  - "[**Yiliang Lin**](/author/yiliang-lin)"
   - "[ Collin Ladd]()"
   - "[ Siyao Wang]()"
   - "[ Andre Martin]()"
