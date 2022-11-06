@@ -7,7 +7,7 @@ authors:
   - "[ Christopher Cooper]()"
   - "[ Meng Wang]()"
   - "[ Jacob J. Adams]()"
-  - "[ Jan Genzer*]()"
+  - "[ Jan Genzer_*_]()"
   - "[ Michael D. Dickey_*_]()"
 
 publication: Small
