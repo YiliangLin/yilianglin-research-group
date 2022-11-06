@@ -11,7 +11,7 @@ authors:
   - "[ Wujin Sun]()"
   - "[ Frances S. Ligler]()"
   - "[ Michael D. Dickey]()"
-  - "[ Zhen Gu*]()"
+  - "[ Zhen Gu\*]()"
 publication: Nature Communication
 abstract: To date, numerous inorganic nanocarriers have been explored for drug
   delivery systems (DDSs). However, the clinical application of inorganic
@@ -38,10 +38,7 @@ image:
 summary: We have developed a new liquid metal-based drug delivery platform for
   anticancer therapy. The liquid-metal nanomedicines are able to fuse for
   promoting drug release and eventually degrade under a mild acidic environment.
-  
-  # links:
-# - name: ""
-#   url: ""
+
 links:
   - name: Link
     url: https://www.nature.com/articles/ncomms10066
