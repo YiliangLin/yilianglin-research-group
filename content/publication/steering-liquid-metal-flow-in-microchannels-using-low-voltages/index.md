@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - "[Shi-Yang Tang]()"
-  - "[ **Yiliang Lin**](author-yiliang-lin)"
+  - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Ishan D. Joshipura]()"
   - "[ Khashayar Khoshmanesh_*_]()"
   - "[ and Michael D. Dickey_*_]()"
