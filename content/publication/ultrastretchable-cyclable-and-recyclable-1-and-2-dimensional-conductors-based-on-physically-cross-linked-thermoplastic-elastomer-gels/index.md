@@ -11,13 +11,7 @@ authors:
   - "[ Richard J. Spontak]()"
   - "[ Michael D. Dickey]()"
 publication: Soft Matter
-draft: false
-featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-summary: >-
+abstract: >-
   Stretchable conductors maintain electrical conductivity at large strains
   relative to their rigid counterparts
 
@@ -39,6 +33,15 @@ summary: >-
 
   are notable for their ability to maintain electrical conductivity up to large strains, their mechanical
 
-  durability, and their ability to be recycled easily with full recovery of the component species
+  durability, and their ability to be recycled easily with full recovery of the component species.
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+summary: In this work, we fabricate soft conductive wires composed of liquid
+  metal and elastomer, and such wires could be stretched to more than 10 times
+  of original lengths, without losing their conductivity.
 date: 2013-06-18T08:02:00.000Z
 ---
