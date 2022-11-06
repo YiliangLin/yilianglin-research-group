@@ -7,7 +7,7 @@ authors:
   - "[Junjie Zhao]()"
   - "[ William T. Nunn]()"
   - "[ Paul C. Lemaire]()"
-  - "[ **Yiliang Lin**]()"
+  - "[**Yiliang Lin**](/author/yiliang-lin)"
   - "[ Michael D. Dickey]()"
   - "[ Christopher J. Oldham]()"
   - "[ Howard J. Walls]()"
