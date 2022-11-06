@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - "[Yue Lu†]()"
-  - "[ **Yiliang Lin**†](/author/yiliang-lin)"
+  - "[ **Yiliang Lin†**](/author/yiliang-lin)"
   - "[ Zhaowei Chen]()"
   - "[ Quanyin Hu]()"
   - "[ Yang Liu]()"
