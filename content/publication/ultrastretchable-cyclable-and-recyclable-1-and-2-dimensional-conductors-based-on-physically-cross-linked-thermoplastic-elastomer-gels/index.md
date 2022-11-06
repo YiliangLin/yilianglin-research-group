@@ -43,12 +43,12 @@ summary: In this work, we fabricate soft conductive wires composed of liquid
   of original lengths, without losing their conductivity.
 
 image:
-  caption: 'Image Resource: [**Yiliang Lin**]
+  caption: 'Image Credit: [**Yiliang Lin**]
   focal_point: ''
   preview_only: false
 
 links:
-  - name: rsc.org
+  - name: Link
     url: https://pubs.rsc.org/en/content/articlelanding/2013/sm/c3sm51136g
 
 url_pdf: https://github.com/YiliangLin/yilianglin-research-group/files/9945380/Ultrastretchable.cyclable.and.recyclable.1-.and.2-dimensional.conductors.based.on.physically.cross-linked.thermoplastic.elastomer.gels.pdf
