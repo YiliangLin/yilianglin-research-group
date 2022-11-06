@@ -32,7 +32,8 @@ image:
 links:
   - name: Link
     url: https://onlinelibrary.wiley.com/doi/10.1002/smll.201502692
-url_pdf: https://github.com/YiliangLin/yilianglin-research-group/files/9945532/Handwritten.Soft.Circuit.Boards.and.Antennas.Using.Liquid.Metal.Nanoparticles.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/files/9945940/Handwritten.Soft.Circuit.Boards.and.Antennas.Using.Liquid.Metal.Nanoparticles.pdf
+
 
 
 date: 2015-12-01T09:11:33.560Z
