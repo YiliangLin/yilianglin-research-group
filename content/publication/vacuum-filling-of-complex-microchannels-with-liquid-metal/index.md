@@ -7,8 +7,8 @@ authors:
   - "[ Olivia Gordon]()"
   - "[ M. Rashed Khan]()"
   - "[ Neyanel Vasquez]()"
-  - "[ Jan Genzer*_*]()"
-  - "[ and Michael D. Dickey*_*]()"
+  - "[ Jan Genzer_*_]()"
+  - "[ and Michael D. Dickey_*_]()"
 publication: Lab on A Chip
 
 abstract:  >-
