@@ -7,8 +7,8 @@ authors:
   - "[ Christopher Cooper]()"
   - "[ Meng Wang]()"
   - "[ Jacob J. Adams]()"
-  - "[ Jan Genzer_*_]()"
-  - "[ Michael D. Dickey_*_]()"
+  - "[ Jan Genzer*]()"
+  - "[ Michael D. Dickey*]()"
 
 publication: Small
 
@@ -19,6 +19,11 @@ summary:  >-
   We designed a liquid metal based composite that can change from non-conductive states to fully conductive states with mechanical pressure. Therefore, we can simply use a pen to create arbitrary conductive circuits on a soft substrate.
 
 featured: false
+
+tags: ["featured"]
+tags:
+  - Liquid Metal
+  - Soft Electronics
 
 image:
   focal_point: ''
