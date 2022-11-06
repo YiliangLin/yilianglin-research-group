@@ -45,7 +45,7 @@ summary: In this work, we fabricate soft conductive wires composed of liquid
   metal and elastomer, and such wires could be stretched to more than 10 times
   of original lengths, without losing their conductivity.
   
-  # links:
+# links:
 # - name: ""
 #   url: ""
 url_pdf: [Ultrastretchable, cyclable and recyclable 1- and 2-dimensional conductors based on physically cross-linked thermoplastic elastomer gels.pdf](https://github.com/YiliangLin/yilianglin-research-group/files/9945380/Ultrastretchable.cyclable.and.recyclable.1-.and.2-dimensional.conductors.based.on.physically.cross-linked.thermoplastic.elastomer.gels.pdf)
