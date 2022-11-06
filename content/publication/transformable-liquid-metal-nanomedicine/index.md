@@ -5,7 +5,7 @@ publication_types:
 authors:
   - "[Yue Lu]()"
   - "[ Quanyin Hu]()"
-  - "[ **Yiliang Lin**](author-yiliang-lin)"
+  - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Dennis B. Pacardo]()"
   - "[ Chao Wang]()"
   - "[ Wujin Sun]()"
