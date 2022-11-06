@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - "[Kenneth P. Mineart]()"
-  - "[ **Yiliang Lin**](author-yiliang-lin)"
+  - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Sharvil C. Desai]()"
   - "[ Arjun S. Krishnan]()"
   - "[ Richard J. Spontak_*_]()"
