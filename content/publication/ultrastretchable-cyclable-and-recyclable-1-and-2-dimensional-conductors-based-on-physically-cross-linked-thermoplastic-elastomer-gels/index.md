@@ -36,17 +36,14 @@ abstract: >-
   durability, and their ability to be recycled easily with full recovery of the component species.
 draft: false
 featured: false
-image:
-  filename: 2013-soft-matter.jpg
-  focal_point: Smart
-  preview_only: false
+
   
 summary: In this work, we fabricate soft conductive wires composed of liquid
   metal and elastomer, and such wires could be stretched to more than 10 times
   of original lengths, without losing their conductivity.
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image Resource: [**Yiliang Lin**]
   focal_point: ''
   preview_only: false
 
