@@ -19,11 +19,10 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    featured_only: true
     author: ''
     category: ''
     publication_type: ''
-    tag: ''
+    tag: 'featured'
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
@@ -34,5 +33,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
-  columns: '1'
 ---
