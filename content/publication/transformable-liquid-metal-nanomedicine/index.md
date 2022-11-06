@@ -31,12 +31,22 @@ abstract: To date, numerous inorganic nanocarriers have been explored for drug
 draft: false
 featured: false
 image:
+caption: 'Image Credit: [**Yue Lu**]
   filename: featured
-  focal_point: Smart
+  focal_point: ''
   preview_only: false
-summary: "We have developed a new liquid metal-based drug delivery platform for
+summary: We have developed a new liquid metal-based drug delivery platform for
   anticancer therapy. The liquid-metal nanomedicines are able to fuse for
   promoting drug release and eventually degrade under a mild acidic environment.
-  "
+  
+  # links:
+# - name: ""
+#   url: ""
+links:
+  - name: Link
+    url: https://www.nature.com/articles/ncomms10066
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/files/9945518/Transformable.liquid-metal.nanomedicine.pdf
+
+
 date: 2015-12-02T09:19:57.695Z
 ---
