@@ -2,7 +2,6 @@
 title: Ultrastretchable, Cyclable and Recyclable 1- and 2-Dimensional Conductors
   Based on Physically Cross-Linked Thermoplastic Elastomer Gels
 publication_types:
-  - "0"
   - "2"
 authors:
   - "[Kenneth P. Mineart]()"
