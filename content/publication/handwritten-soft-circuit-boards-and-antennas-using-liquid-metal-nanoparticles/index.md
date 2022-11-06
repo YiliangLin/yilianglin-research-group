@@ -8,7 +8,7 @@ authors:
   - "[ Meng Wang]()"
   - "[ Jacob J. Adams]()"
   - "[ Jan Genzer*]()"
-  - "[ Michael D. Dickeyz_*_]()"
+  - "[ Michael D. Dickey_*_]()"
 
 publication: Small
 
