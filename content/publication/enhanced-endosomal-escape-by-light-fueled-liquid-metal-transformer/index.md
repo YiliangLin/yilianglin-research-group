@@ -4,8 +4,8 @@ subtitle: Nano Letters, 2017
 publication_types:
   - "2"
 authors:
-  - "[Yue Lu†]()"
-  - "[ **Yiliang Lin†**](/author/yiliang-lin)"
+  - "[Yue Lu_†_]()"
+  - "[ **Yiliang Lin_†_**](/author/yiliang-lin)"
   - "[ Zhaowei Chen]()"
   - "[ Quanyin Hu]()"
   - "[ Yang Liu]()"
