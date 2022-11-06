@@ -1,6 +1,5 @@
 ---
-title: Ultrastretchable, Cyclable and Recyclable 1- and 2-Dimensional Conductors
-  Based on Physically Cross-Linked Thermoplastic Elastomer Gels
+title: Ultrastretchable, Cyclable and Recyclable 1- and 2-Dimensional Conductors Based on Physically Cross-Linked Thermoplastic Elastomer Gels
 publication_types:
   - "2"
 authors:
