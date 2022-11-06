@@ -44,7 +44,12 @@ image:
 summary: In this work, we fabricate soft conductive wires composed of liquid
   metal and elastomer, and such wires could be stretched to more than 10 times
   of original lengths, without losing their conductivity.
-  
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ''
+  preview_only: false
+
 # links:
 # - name: ""
 #   url: ""
