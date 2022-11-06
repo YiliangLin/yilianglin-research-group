@@ -25,7 +25,7 @@ summary: We designed a liquid metal based composite that can change from
   Therefore, we can simply use a pen to create arbitrary conductive circuits on
   a soft substrate.
   
-  image:
+image:
   caption: 'Image Credit: **Yiliang Lin**'
   focal_point: ''
   preview_only: false
