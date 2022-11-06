@@ -43,7 +43,7 @@ summary: In this work, we fabricate soft conductive wires composed of liquid
   of original lengths, without losing their conductivity.
 
 image:
-  caption: 'Image Credit: [**Yiliang Lin**]
+  caption: 'Image Credit: **Yiliang Lin**'
   focal_point: ''
   preview_only: false
 
