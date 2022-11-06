@@ -28,7 +28,7 @@ summary: We designed a liquid metal based composite that can change from
   a soft substrate.
   
   image:
-  caption: 'Image Resource: [**Yiliang Lin**]
+  caption: 'Image Credit: [**Yiliang Lin**]
   focal_point: ''
   preview_only: false
 
