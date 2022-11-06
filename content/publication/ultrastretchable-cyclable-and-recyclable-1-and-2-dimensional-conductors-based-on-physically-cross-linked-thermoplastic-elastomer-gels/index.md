@@ -41,5 +41,5 @@ summary: >-
   are notable for their ability to maintain electrical conductivity up to large strains, their mechanical
 
   durability, and their ability to be recycled easily with full recovery of the component species
-date: 2022-11-06T08:02:46.888Z
+date: 2013-06-18T08:02:00.000Z
 ---
