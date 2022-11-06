@@ -19,10 +19,10 @@ authors:
 publication: ACS Macro Letters
 
 abstract:  >-
-  This paper describes a simple method to fabricate soft circuit boards, antennas, and conductive paths composed of liquid metal nanoparticles embedded in an elastomeric matrix. These films of nanoparticles become electrically conductive after applying localized pressure that merges the particles together to form conductive traces. Two concepts motivate this work: (1) The ability to create an analog of circuit boards out of soft materials, which offers a route to connect circuit elements for unconventional electronics and (2) the ability to “draw” antennas to a desired geometry on demand, which is appealing for customizing communication devices on the fly.
+  Sonication of gallium or gallium-based liquid metals in an aqueous solution of vinyl monomers leads to rapid free radical polymerization (FRP), without the need for conventional molecular initiators. Under ambient conditions, a passivating native oxide separates these metals from solution and renders the metal effectively inert. However, sonication generates liquid metal nanoparticles (LMNPs) of ∼100 nm diameter and thereby increases the surface area of the metal. The exposed metal initiates polymerization, which proceeds via a FRP mechanism and yields high molecular weight polymers that can form physical gels. Spin trapping EPR reveals the generation of free radicals. Time-of-flight secondary ion mass spectrometry measurements confirm direct polymer bonding to gallium, verifying the formation of surface-anchored polymer grafts. The grafted polymers can modify the interfacial properties, that is, the preference of the metal particles to disperse in aqueous versus organic phases. The polymer can also be degrafted and isolated from the particles using strong acid or base. The concept of physically disrupting passivated metal surfaces offers new routes for surface-initiated polymerization and has implications for surface modification, reduction reactions, and fabrication of mechanically responsive materials.
 
 summary:  >-
-  We designed a liquid metal based composite that can change from non-conductive states to fully conductive states with mechanical pressure. Therefore, we can simply use a pen to create arbitrary conductive circuits on a soft substrate.
+  We demonstrated that sonication of gallium or gallium-based liquid metals in an aqueous solution of vinyl monomers could lead to rapid free radical polymerization, without the need for conventional molecular initiators.
   
 
 draft: false
