@@ -13,7 +13,7 @@ abstract: "22222"
 draft: false
 featured: false
 tags:
-  - LiquidMetal
+  - Liquid Metal
 image:
   filename: featured
   focal_point: Smart
