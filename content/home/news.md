@@ -19,5 +19,5 @@ content:
   order: desc
   page_type: news
 design:
-  view: 3
+  view: 1
 ---
