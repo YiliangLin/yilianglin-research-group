@@ -10,7 +10,7 @@ authors:
   - "[ Chao Wang]()"
   - "[ Wujin Sun]()"
   - "[ Frances S. Ligler]()"
-  - "[ Michael D. Dickey test]()"
+  - "[ Michael D. Dickey]()"
   - "[ Zhen Gu*]()"
 publication: Nature Communication
 abstract: To date, numerous inorganic nanocarriers have been explored for drug
