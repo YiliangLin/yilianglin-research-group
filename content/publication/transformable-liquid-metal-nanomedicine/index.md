@@ -11,7 +11,7 @@ authors:
   - "[ Wujin Sun]()"
   - "[ Frances S. Ligler]()"
   - "[ Michael D. Dickey]()"
-  - "[ Zhen Gu\*]()"
+  - "[ Zhen Gu*]()"
 publication: Nature Communication
 abstract: To date, numerous inorganic nanocarriers have been explored for drug
   delivery systems (DDSs). However, the clinical application of inorganic
