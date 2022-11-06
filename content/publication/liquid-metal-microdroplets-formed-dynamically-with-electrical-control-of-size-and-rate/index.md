@@ -5,7 +5,7 @@ publication_types:
 authors:
   - "[Shi-Yang Tang]()"
   - "[ Ishan D. Joshipura]()"
-  - "[ **Yiliang Lin**](author-yiliang-lin)"
+  - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Kourosh Kalantar-Zadeh]()"
   - "[ Arnan Mitchell]()"
   - "[ Khashayar Khoshmanesh_*_]()"
