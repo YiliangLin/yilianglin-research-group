@@ -21,13 +21,22 @@ abstract: "This paper describes a simple method to fabricate soft circuit
   demand, which is appealing for customizing communication devices on the fly."
 draft: false
 featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
+
 summary: We designed a liquid metal based composite that can change from
   non-conductive states to fully conductive states with mechanical pressure.
   Therefore, we can simply use a pen to create arbitrary conductive circuits on
   a soft substrate.
+  
+  image:
+  caption: 'Image Resource: [**Yiliang Lin**]
+  focal_point: ''
+  preview_only: false
+
+links:
+  - name: Link
+    url: https://onlinelibrary.wiley.com/doi/10.1002/smll.201502692
+
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/files/9945436/Handwritten.Soft.Circuit.Boards.and.Antennas.Using.Liquid.Metal.Nanoparticles.pdf
+
 date: 2015-12-01T09:00:15.439Z
 ---
