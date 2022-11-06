@@ -37,7 +37,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 2013-soft-matter.jpg
   focal_point: Smart
   preview_only: false
 summary: In this work, we fabricate soft conductive wires composed of liquid
