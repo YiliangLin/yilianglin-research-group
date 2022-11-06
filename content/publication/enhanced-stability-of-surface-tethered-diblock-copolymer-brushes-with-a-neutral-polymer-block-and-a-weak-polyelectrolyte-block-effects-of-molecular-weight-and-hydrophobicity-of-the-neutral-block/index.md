@@ -18,7 +18,7 @@ summary:  >-
   We studied the stability of diblock copolymer brushes featuring a bottom neutral block, poly(methyl methacrylate) (PMMA) or poly(poly(ethylene glycol) methacrylate) (PPEGMA), and a top poly(acrylic acid) (PAA) block on flat silicon substrate
 
 tags:
-  - Polymer
+  - Polymers
 
 draft: false
 featured: false
