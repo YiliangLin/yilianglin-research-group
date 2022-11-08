@@ -1,47 +1,39 @@
 ---
 title: Yiliang Lin
-role: Professor of Artificial Intelligence
+role: Assistant Professor in Chemical & Biomolecular Engineering
 avatar_filename: null
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include soft matter engineering, wearable
+  electronics, biointerfaces and living materials.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Soft Matter Engineering
+  - Bioelectronics
+  - Biointerfaces
+  - LivingMaterials
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:yilianglinzju@gmail.com
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=5V-ciuwAAAAJ&hl=en
 organizations:
-  - name: Stanford University
+  - name: National University of Singapore
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoc Fellow
+      institution: University of Chicago
+      year: 2019
+    - course: PhD in Chemical Engineering
+      institution: North Carolina State University
+      year: 2018
+    - course: BEng in Polymer Science & Engineering
+      institution: Zhejiang University
+      year: 2013
 email: ""
 superuser: true
 user_groups:
   - Principal Investigators
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yiliang Lin is an Assistant Professor in the Department of Chemical & Biomolecular Engineering at National University of Singpaore.  His research interests include soft matter engineering, wearable electronics, biointerfaces and living materials.
