@@ -7,28 +7,14 @@ We have a few opening available for highly qualified and motivated graduate stud
 
 Opportunity for Postdoctoral fellows
 
-There are a few projects for postdoctoral fellows in bioelectronics, neural implantable, brain machine interface, living electronics, electronics medicine, and medical wearable device. We are looking for candidate that meet the following criteria:
-
-(1) Strong technical understanding/skills of bioelectronics, neural engineering and flexible electronics. Basic understanding of the nervous system
-
-(2) Have cleanroom experience for nano/microfabrication, preferably on polymeric electronic device
-
-(3) Research experience with animal or cell culture is preferred
-
-Postdoctoral fellow applicant should email Prof. Lin (yilianglinzju@gmail.com) with your CV, referee contact information, and a 5-slide presentation that summarizes your previous research accomplishments. 
-
+There are a few projects for postdoctoral fellows in bioelectronics, living materials, polymer synthesis, additive manufacturing, and wearable devices. Research experience in animal, cell culture, microfabrication, polymer synthesis and electrical engineering would be a bonus. Please email Prof. Lin (yilianglinzju@gmail.com) with your CV, at least two names of the referees and 5-slide presentation that summarizes your previous research accomplishments with a subject “Postdoc Application”.  Please also state your career plan in the email. To appreciate your efforts in the application, Prof. Lin will read and reply to every received email with thoughtful consideration. The position will remain open until filled.
 
 Opportunity for Research Assistants
 
-We have a research assistant position opening for the project involved in the development of next-generation neural electronics with a human-centric approach. We are seeking to recruit a research assistant to 
+We have a few research assistant positions openings available for highly motivated students. Student with strong interest in bioelectronics are welcome to apply. Interested applicant can email Prof. Lin (yilianglinzju@gmail.com) with your CV. 
 
-(1) Conduct research activities in bioelectronics area
-
-(2) Assisting the PI in the management of the research group and its activities
-
-(3) Assisting the PI in setting up a laboratory and essential equipment
-
-Interested applicant can email Prof. Lin (yilianglinzju@gmail.com) with your CV. 
+Opportunity for Visiting Students/Scholars
+We welcome visiting scholars/students with different backgrounds to join the team.  We highly recommend visits with sufficient length (> 1 year) as it is very challenging to make significant achievements in a short time. Please email Prof. Lin (yilianglinzju@gmail.com) your CV and research interests.
 
 
 
