@@ -1,14 +1,11 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Our Research Paper on Soil-Inspired Chemical System Is Published On Nature Chemistry!
+date: 2022-10-24
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Our Research Paper on Soil-Inspired Chemical System Is Published On Nature Chemistry! Check the link https://www.nature.com/articles/s41557-022-01064-2
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Interactions between the microbiota and their colonized environments mediate critical pathways from biogeochemical cycles to homeostasis in human health. Here we report a soil-inspired chemical system that consists of nanostructured minerals, starch granules and liquid metals. Fabricated via a bottom-up synthesis, the soil-inspired chemical system can enable chemical redistribution and modulation of microbial communities. We characterize the composite, confirming its structural similarity to the soil, with three-dimensional X-ray fluorescence and ptychographic tomography and electron microscopy imaging. We also demonstrate that post-synthetic modifications formed by laser irradiation led to chemical heterogeneities from the atomic to the macroscopic level. The soil-inspired material possesses chemical, optical and mechanical responsiveness to yield write–erase functions in electrical performance. The composite can also enhance microbial culture/biofilm growth and biofuel production in vitro. Finally, we show that the soil-inspired system enriches gut bacteria diversity, rectifies tetracycline-induced gut microbiome dysbiosis and ameliorates dextran sulfate sodium-induced rodent colitis symptoms within in vivo rodent models.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
