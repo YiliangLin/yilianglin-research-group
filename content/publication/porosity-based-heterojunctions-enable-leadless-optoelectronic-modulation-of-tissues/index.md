@@ -36,9 +36,7 @@ image:
 links:
   - name: Link
     url: https://doi.org/10.1038/s41563-022-01249-7
-url_pdf: [Prominski et al. - 2022 - Porosity-based heterojunctions enable leadless opt.pdf](https://github.com/YiliangLin/yilianglin-research-group/files/9957994/Prominski.et.al.-.2022.-.Porosity-based.heterojunctions.enable.leadless.opt.pdf)
-
-
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/files/9957994/Prominski.et.al.-.2022.-.Porosity-based.heterojunctions.enable.leadless.opt.pdf
 
 date: 2022-06-08T05:38:14.338Z
 ---
