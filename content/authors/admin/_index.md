@@ -23,7 +23,7 @@ education:
   courses:
     - course: Postdoc Fellow
       institution: University of Chicago
-      year: 2019
+      year: 2022
     - course: PhD in Chemical Engineering
       institution: North Carolina State University
       year: 2018
