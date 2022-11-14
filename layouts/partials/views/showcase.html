@@ -54,11 +54,9 @@
       </div>
       {{ end }}      
       
-      {{ with $publication }}
       <div class="publication-test">
-        {{ . }}
+        {{ $publication }}
       </div>
-      {{ end }}
 
       <div class="btn-links">
         {{ partial "page_links" (dict "page" $item "is_list" 0) }}
