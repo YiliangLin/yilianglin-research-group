@@ -49,8 +49,13 @@
       </div>
 
       {{ with $summary }}
-      {{ with $publication }}
       <div class="article-style">
+        {{ . }}
+      </div>
+      {{ end }}      
+      
+      {{ with $publication }}
+      <div class="publication-test">
         {{ . }}
       </div>
       {{ end }}
