@@ -32,8 +32,6 @@
 {{ $publication := "" }}
 {{ if $item.Params.publication }}
   {{ $publication = $item.Params.publication | markdownify | emojify }}
-{{ else if $item.Publication }}
-  {{ $publication = $item.Publication }}
 {{ end }}
 
 <div class="media stream-item view-compact">
