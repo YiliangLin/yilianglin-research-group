@@ -34,7 +34,7 @@
   {{ $publication = $item.Params.publication | markdownify | emojify }}
 {{ else if $item.Params.abstract }}
   {{ $publication = $item.Params.publication | markdownify | emojify }}
-{{ else if $item.Summary }}
+{{ else if $item.publication }}
   {{ $publication = $item.publication }}
 {{ end }}
 
