@@ -22,7 +22,6 @@ draft: false
 featured_only: false
 featured: false
 
-tags: ["featured"]
 tags:
   - Liquid Metal
   - Biomedical Science
