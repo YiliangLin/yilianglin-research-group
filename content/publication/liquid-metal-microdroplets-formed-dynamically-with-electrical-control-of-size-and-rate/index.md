@@ -22,6 +22,9 @@ summary:  >-
 draft: false
 featured: false
 
+tags:
+  - Liquid Metal
+
 image:
   filename: featured
   focal_point: Smart
