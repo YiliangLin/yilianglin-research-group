@@ -26,7 +26,6 @@ featured: false
 tags:
   - Liquid Metal
   - Biomedical Science
-  - featured
  
 summary:  >-
   We have developed a new liquid metal-based drug delivery platform for anticancer therapy. The liquid-metal nanomedicines are able to fuse for promoting drug release and eventually degrade under a mild acidic environment.
