@@ -1,5 +1,5 @@
 ---
-title: Shape-Transformable Liquid Metal Nanoparticles in Aqueous Solution. Chemical Science, 2017.
+title: Shape-Transformable Liquid Metal Nanoparticles in Aqueous Solution
 subtitle: Chemical Science, 2017
 publication_types:
   - "2"
@@ -20,7 +20,6 @@ summary:  >-
 draft: false
 featured: false
 
-tags: ["featured"]
 tags:
   - Liquid Metal
   - featured
