@@ -4,7 +4,8 @@ subtitle: Trends in Chemistry 2020
 publication_types:
   - "2"
 authors:
-  - "[**Yiliang Lin_*_**](/author/yiliang-lin)"
+  - “admin”
+  - "[Yiliang Lin_*_](/author/yiliang-lin)"
   - "[ Yin Fang]()"
   - "[ Jiping Yue]()"
   - "[ Bozhi Tian_*_]()"
