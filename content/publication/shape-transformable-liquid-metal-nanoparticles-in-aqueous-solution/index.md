@@ -22,6 +22,7 @@ featured: false
 tags: ["featured"]
 tags:
   - Liquid Metal
+  - featured
 
 image:
   filename: featured
