@@ -22,6 +22,10 @@ summary:  >-
 draft: false
 featured: false
 
+tags:
+  - Liquid Metal
+  - Soft Electronics
+
 image:
   filename: featured
   focal_point: Smart
