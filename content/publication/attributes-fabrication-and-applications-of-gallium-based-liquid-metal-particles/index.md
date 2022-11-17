@@ -5,6 +5,7 @@ subtitle: Advanced Science 2020
 publication_types:
   - "2"
 authors:
+  - "admin"
   - "[**Yiliang Lin**](/author/yiliang-lin)"
   - "[ Jan Genzer]()"
   - "[ Michael D. Dickey_*_]()"
@@ -19,10 +20,10 @@ summary:  >-
 draft: false
 featured: false
 
-tags: ["featured"]
 tags:
   - Liquid Metal
   - Soft Electronics
+  - featured
 
 image:
   filename: featured
