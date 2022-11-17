@@ -8,7 +8,7 @@ authors:
   - "[Xiaolei Cai]()"
   - "[ Min Chen]()"
   - "[ Aleksander Prominski]()"
-  - "[ Yiliang Lin](/author/yiliang-lin)"
+  - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Nicholas Ankenbruck]()"
   - "[ Jillian Rosenberg]()"
   - "[ Mindy Nguyen]()"
