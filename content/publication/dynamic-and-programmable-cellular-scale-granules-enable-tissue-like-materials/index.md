@@ -4,10 +4,10 @@ subtitle: Matter 2020
 publication_types:
   - "2"
 authors:
-  - "[Yin Fang_*_]()"
-  - "[ Endao Han]()"
-  - "[ Xin-Xing Zhang]()"
-  - "[ Yuanwen Jiang]()"
+  - "[Yin Fang_†__*_]()"
+  - "[ Endao Han_†__†__†_]()"
+  - "[ Xin-Xing Zhang_†__†_]()"
+  - "[ Yuanwen Jiang_†_]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Jiuyun Shi]()"
   - "[ Jiangbo Wu]()"
