@@ -3,6 +3,7 @@ title: Vacuum Filling of Complex Microchannels with Liquid Metal，Lab on a Chip
 publication_types:
   - "2"
 authors:
+  - "admin"
   - "[**Yiliang Lin**](/author/yiliang-lin)"
   - "[ Olivia Gordon]()"
   - "[ M. Rashed Khan]()"
@@ -24,6 +25,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+tags:
+  - Liquid Metal
+  - Soft Electronics
+  - featured
 
 links:
   - name: Link
