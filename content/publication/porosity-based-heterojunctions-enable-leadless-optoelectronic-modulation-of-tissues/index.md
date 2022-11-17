@@ -5,6 +5,7 @@ subtitle: Nature Materials 2022
 publication_types:
   - "2"
 authors:
+  - "admin"
   - "[Aleksander Prominski]()"
   - "[ Jiuyun Shi]()"
   - "[ Pengju Li]()"
@@ -27,6 +28,7 @@ featured: false
 tags:
   - Biointerfaces
   - Bioelectronics
+  - featured
 
 image:
   filename: featured
