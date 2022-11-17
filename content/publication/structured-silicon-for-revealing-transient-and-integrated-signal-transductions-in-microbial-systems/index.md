@@ -39,7 +39,8 @@ featured: false
 tags:
   - Biointerfaces
   - Living Materials
-  - 
+  - featured
+
 image:
   filename: featured
   focal_point: Smart
