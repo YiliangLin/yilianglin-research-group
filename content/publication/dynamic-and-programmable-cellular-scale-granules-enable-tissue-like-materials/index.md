@@ -5,8 +5,8 @@ publication_types:
   - "2"
 authors:
   - "[Yin Fang_†__*_]()"
-  - "[ Endao Han_†__†__†_]()"
-  - "[ Xin-Xing Zhang_†__†_]()"
+  - "[ Endao Han_†_]()"
+  - "[ Xin-Xing Zhang_†_]()"
   - "[ Yuanwen Jiang_†_]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Jiuyun Shi]()"
