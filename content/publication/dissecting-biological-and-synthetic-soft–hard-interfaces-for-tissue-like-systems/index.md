@@ -5,7 +5,7 @@ subtitle: Chemical Reviews 2022
 publication_types:
   - "2"
 authors:
-  - "[Yin Fang_*_]()"
+  - "[Yin Fang]()"
   - "[ Xiao Yang]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Jiuyun Shi]()"
