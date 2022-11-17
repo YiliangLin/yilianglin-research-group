@@ -23,7 +23,12 @@ featured: false
 image:
   focal_point: ''
   preview_only: false
-
+  
+tags:
+  - Liquid Metal
+  - Soft Electronics
+  - Polymers
+ 
 links:
   - name: Link
     url: https://pubs.rsc.org/en/content/articlelanding/2013/sm/c3sm51136g
