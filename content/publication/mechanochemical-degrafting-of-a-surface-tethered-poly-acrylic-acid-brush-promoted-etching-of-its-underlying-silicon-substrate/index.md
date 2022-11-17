@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - "[Yuanchao Li_*_]()"
-  - "[ Yiliang Lin](/author/yiliang-lin)"
+  - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Yunkai Dai]()"
   - "[ Yeongun Ko]()"
   - "[ Jan Genzer_*_]()"
