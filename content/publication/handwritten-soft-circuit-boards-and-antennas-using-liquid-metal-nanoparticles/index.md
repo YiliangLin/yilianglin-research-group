@@ -20,10 +20,10 @@ summary:  >-
 
 featured: false
 
-tags: ["featured"]
 tags:
   - Liquid Metal
   - Soft Electronics
+  - featured
 
 image:
   focal_point: ''
