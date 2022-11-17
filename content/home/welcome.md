@@ -4,7 +4,7 @@ widget_id: "10"
 headless: true
 weight: 10
 title: Yiliang Lin  Research Group
-hero_media: welcome.jpg
+hero_media: linwelcome.jpg
 design:
   columns: "1"
   css_style: null
