@@ -24,10 +24,10 @@ summary:  >-
 draft: false
 featured: false
 
-tags: ["featured"]
 tags:
   - Liquid Metal
   - Biomedical Science
+  - featured
  
 image:
   filename: featured
