@@ -27,7 +27,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  
+
+tags:
+  - Soft Electronics
+  - Liquid Metal
+
 
 links:
   - name: Link
