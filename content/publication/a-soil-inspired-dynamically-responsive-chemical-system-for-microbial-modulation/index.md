@@ -4,10 +4,11 @@ subtitle: Nature Chemistry 2022
 publication_types:
   - "2"
 authors:
-  - "[**Yiliang Lin_*_**](/author/yiliang-lin)"
-  - "[ Xiang Gao]()"
-  - "[ Jiping Yue]()"
-  - "[ Yin Fang]()"
+  - "admin"
+  - "[**Yiliang Lin_†__*_**](/author/yiliang-lin)"
+  - "[ Xiang Gao_†_]()"
+  - "[ Jiping Yue_†_]()"
+  - "[ Yin Fang_†_]()"
   - "[ Jiuyun Shi]()"
   - "[ Lingyuan Meng]()"
   - "[ Clementene Clayton]()"
@@ -43,6 +44,7 @@ tags:
   - Biointerfaces
   - Liquid Metal
   - Living Materials
+  - featured
 
 image:
   filename: featured
