@@ -21,7 +21,11 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  
+
+tags:
+  - Liquid Metal
+  - Soft Electronics
+ 
 summary:  >-
   We demonstrate a novel method for controlling the flow of liquid metal in microchannels simply by applying a modest voltage to the metal relative to a counter electrode placed in the outlet.
   
