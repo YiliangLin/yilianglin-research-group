@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Stability of Surface-Tethered Diblock Copolymer Brushes with a Neutral Polymer Block and a Weak Polyelectrolyte Block: Effects of Molecular Weight and Hydrophobicity of the Neutral Block"
+title: Enhanced Stability of Surface-Tethered Diblock Copolymer Brushes with a Neutral Polymer Block and a Weak Polyelectrolyte Block. Effects of Molecular Weight and Hydrophobicity of the Neutral Block
 publication_types:
   - "2"
 authors:
