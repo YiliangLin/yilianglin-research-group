@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - "[Philipp Reineck_*_]()"
-  - "[ Yiliang Lin](/author/yiliang-lin)"
+  - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Brant C. Gibson]()"
   - "[ Michael D. Dickey]()"
   - "[ Andrew D. Greentree]()"
