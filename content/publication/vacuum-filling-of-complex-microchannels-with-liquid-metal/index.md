@@ -1,5 +1,5 @@
 ---
-title: Vacuum Filling of Complex Microchannels with Liquid Metal，Lab on a Chip, 2017
+title: Vacuum Filling of Complex Microchannels with Liquid Metal
 publication_types:
   - "2"
 authors:
