@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - "[Jinwoo Ma]()"
-  - "[ Yiliang Lin](/author/yiliang-lin)"
+  - "[**Yiliang Lin**](/author/yiliang-lin)"
   - "[ Yong-Woo Kim]()"
   - "[ Yeongun Ko]()"
   - "[ Jongbeom Kim]()"
