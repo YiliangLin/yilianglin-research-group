@@ -5,4 +5,4 @@ Research
   The design and engineering of **adaptable**, **dynamically responsive**, **self-regenerative**, and **bio-integrative living materials** (a grand challenge in material science research) will advance applications that interface with biological systems, such as **telemedicine**, **biomedical therapy**, and **sustainable agriculture**.
  
 
-![screen reader text](welcome.jpg "Soft matter engineering and living materials design or human-machine interface, biomedical therapy and sustainable agriculture")
+![screen reader text](welcome.jpg "Soft matter engineering and living materials design for **human-machine interface**, **biomedical therapy** and **sustainable agriculture**")
