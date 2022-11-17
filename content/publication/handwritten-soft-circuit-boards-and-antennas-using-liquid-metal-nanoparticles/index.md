@@ -3,6 +3,7 @@ title: Handwritten, Soft Circuit Boards and Antennas Using Liquid Metal Nanopart
 publication_types:
   - "2"
 authors:
+  - "admin"
   - "[**Yiliang Lin**](/author/yiliang-lin)"
   - "[ Christopher Cooper]()"
   - "[ Meng Wang]()"
