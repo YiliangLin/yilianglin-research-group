@@ -24,6 +24,7 @@ featured: false
 tags:
   - Liquid Metal
   - Soft Electronics
+  - featured
 
 image:
   filename: featured
