@@ -3,6 +3,7 @@ title: Transformable Liquid-Metal Nanomedicine
 publication_types:
   - "2"
 authors:
+  - "admin"
   - "[Yue Lu]()"
   - "[ Quanyin Hu]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
