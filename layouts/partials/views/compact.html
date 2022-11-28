@@ -34,6 +34,13 @@
   {{ $publication = $item.Params.publication | markdownify | emojify }}
 {{ end }}
 
+
+{{/* Get date. */}}
+{{ $date := "" }}
+{{ if $item.Params.date }}
+  {{ $publication = $item.Params.date }}
+{{ end }}
+
 <div class="media stream-item view-compact">
   <div class="media-body">
 
@@ -47,6 +54,12 @@
     </div>    
     {{ end }}
 
+    {{ with $date }}
+    <div class="show-date">
+      {{ $date }}
+    </div>    
+    {{ end }}
+  
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">
