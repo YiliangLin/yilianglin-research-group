@@ -48,17 +48,15 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
     
+    <div class="show-publication&date">
     {{ with $publication }}
-    <div class="show-publication">
       {{ $publication }}
-    </div>    
     {{ end }}
 
     {{ with $date }}
-    <div class="show-date">
       {{ $date }}
-    </div>    
     {{ end }}
+    </div>
   
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
