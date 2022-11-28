@@ -18,7 +18,7 @@ content:
   email: yilianglinzju@gmail.com
   phone: 888 888 88 88
   address:
-    street: Blk E5 02-19, 4 Engineering Drive 4
+    street: Blk E5 03-04, 4 Engineering Drive 4
     city: Singapore
     region: Singapore
     postcode: '117585'
