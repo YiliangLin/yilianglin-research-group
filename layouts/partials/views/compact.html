@@ -38,7 +38,7 @@
 {{/* Get date. */}}
 {{ $date := "" }}
 {{ if $item.Params.date }}
-  {{ $date = $item.Params.date }}
+  {{ $date = index (split $item.Params.date " ") 0 }}
 {{ end }}
 
 <div class="media stream-item view-compact">
