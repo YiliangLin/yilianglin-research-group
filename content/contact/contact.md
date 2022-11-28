@@ -25,12 +25,9 @@ content:
     country: Singapore
     country_code: SG
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Blk E5 02-19, 4 Engineering Drive 4
-  office_hours:
-    - 'Monday to Friday 9:00 to 18:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '1.298126'
+    longitude: '103.772206'
+    
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
