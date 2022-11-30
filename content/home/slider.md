@@ -16,35 +16,35 @@ design:
 content:
   slides:
     - title: 
-      content: Artificial Soil Design for Microbial Modulation
+      content: 
       align: center
       background:
         position: center
-        color:
-        brightness:
+        color:'#555'
+        brightness:0.95
         media: nature chemistry.jpg     
     - title: 
-      content: Soft-Hard Composites Design for Better Bio-Interface
+      content: 
       align: center
       background:
         position: center
-        color: 
-        brightness:
+        color: '#555'
+        brightness:0.7
         media: soft-hard composite.jpg        
     - title: 
-      content: Semiconductor-Microbe Living Material Hybrid for Biological Modulation
+      content: 
       align: center
       background:
         position: center
         color: '#555'
-        brightness: 1
+        brightness: 0.8
         media: scienceadvances.jpg        
     - title: 
-      content: Living Materials for Biological Modulation and Sustainability
+      content: 
       align: center
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.9
         media: living materials.jpg
 ---
