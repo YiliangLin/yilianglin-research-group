@@ -22,8 +22,7 @@ content:
         position: bottom
         color: '#666'
         brightness: 0.7
-        media: nature chemistry.jpg
-        
+        media: nature chemistry.jpg     
     - title: Soft-Hard Composites Design for Better Bio-Interface
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
@@ -31,8 +30,7 @@ content:
         position: top
         color: '#555'
         brightness: 0.7
-        media: soft-hard composite.jpg
-        
+        media: soft-hard composite.jpg        
     - title: Semiconductor-Microbe Living Material Hybrid for Biological Modulation
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
@@ -40,8 +38,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: scienceadvances.jpg
-        
+        media: scienceadvances.jpg        
     - title: Living Materials for Biological Modulation and Sustainbility
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
