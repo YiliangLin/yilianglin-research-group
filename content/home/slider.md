@@ -40,7 +40,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: science advances.jpg
+        media: scienceadvances.jpg
         
     - title: Living Materials for Biological Modulation and Sustainbility
       content: 'Share your knowledge with the group and explore exciting new topics together!'
