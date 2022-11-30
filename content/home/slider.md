@@ -20,16 +20,16 @@ content:
       align: center
       background:
         position: center
-        color: '#666'
-        brightness: 0.7
+        color:
+        brightness:
         media: nature chemistry.jpg     
     - title: 
       content: Soft-Hard Composites Design for Better Bio-Interface
       align: center
       background:
         position: center
-        color: '#555'
-        brightness: 0.7
+        color: 
+        brightness:
         media: soft-hard composite.jpg        
     - title: 
       content: Semiconductor-Microbe Living Material Hybrid for Biological Modulation
@@ -37,7 +37,7 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 1
         media: scienceadvances.jpg        
     - title: 
       content: Living Materials for Biological Modulation and Sustainability
