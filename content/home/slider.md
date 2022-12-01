@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 1.0
-        media: semiconductor hybrids.jpg        
+        media: functional soft materials.jpg        
     - title: 
       content: 
       align: center
@@ -39,4 +39,13 @@ content:
         color: '#555'
         brightness: 0.9
         media: living materials.jpg
+        
+    - title: 
+      content: 
+      align: center
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.9
+        media: semiconductor hybrids.jpg
 ---
