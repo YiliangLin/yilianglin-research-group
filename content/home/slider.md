@@ -29,7 +29,7 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 1.0
         media: soft-hard composite.jpg        
     - title: 
       content: 
