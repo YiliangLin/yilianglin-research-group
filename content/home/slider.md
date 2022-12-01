@@ -20,7 +20,7 @@ content:
       align: center
       background:
         position: center
-        color:'#555'
+        color: '#555'
         brightness:0.95
         media: nature chemistry.jpg     
     - title: 
