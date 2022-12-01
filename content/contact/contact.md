@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: yilianglinzju@gmail.com
-  phone: 888 888 88 88
+  email: y.lin@nus.edu.sg
+  phone: 65168405
   address:
     street: Blk E5 03-04, 4 Engineering Drive 4
     city: Singapore
