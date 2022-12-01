@@ -37,8 +37,8 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.8
-        media: scienceadvances.jpg        
+        brightness: 1.0
+        media: semiconductor hybrids.jpg        
     - title: 
       content: 
       align: center
