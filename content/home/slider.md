@@ -21,7 +21,7 @@ content:
       background:
         position: center
         color: '#555'
-        brightness:0.95
+        brightness: 0.95
         media: nature chemistry.jpg     
     - title: 
       content: 
@@ -29,7 +29,7 @@ content:
       background:
         position: center
         color: '#555'
-        brightness:0.7
+        brightness: 0.7
         media: soft-hard composite.jpg        
     - title: 
       content: 
