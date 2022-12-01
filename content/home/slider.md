@@ -21,14 +21,6 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.95
-        media: nature chemistry.jpg     
-    - title: 
-      content: 
-      align: center
-      background:
-        position: center
-        color: '#555'
         brightness: 1.0
         media: soft-hard composite.jpg        
     - title: 
