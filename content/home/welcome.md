@@ -3,7 +3,7 @@ widget: hero
 widget_id: "10"
 headless: true
 weight: 10
-title: Lin  Research Group @ NUS
+title: Lin  Research Group
 hero_media: linwelcome.jpg
 design:
   columns: "1"
