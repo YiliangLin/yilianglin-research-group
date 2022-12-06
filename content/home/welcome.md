@@ -3,7 +3,7 @@ widget: hero
 widget_id: "10"
 headless: true
 weight: 10
-title: Yiliang Lin  Research Group
+title: Lin  Research Group @ NUS
 hero_media: linwelcome.jpg
 design:
   columns: "1"
@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-The  **Yiliang Lin Research Group** aims to design and develop **multiscale living materials** for **bio-interfaces** to meet emerging needs in post-pandemics time, from the **human-machine interface** in telemedicine, **biomedical therapy** to **sustainable agriculture**.
+**Lin Research Group @ NUS** aims to design and develop **multiscale living materials** for **bio-interfaces** to meet emerging needs in post-pandemics time, from the **human-machine interface** in telemedicine, **biomedical therapy** to **sustainable agriculture**.
