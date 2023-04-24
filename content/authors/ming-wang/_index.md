@@ -25,7 +25,7 @@ education:
       year: 2017
 
 user_groups:
-  - Research Fellow
+  - Research Fellows
 highlight_name: false
 
 ---
