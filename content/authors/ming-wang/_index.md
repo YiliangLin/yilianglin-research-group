@@ -1,10 +1,7 @@
 ---
 title: Ming Wang
 role: Research Fellow
-avatar_filename: avatar
-social: []
-superuser: false
----
+avatar_filename: null
 bio: My research interests include tissue-like soft materials, flexible electronics and bio-based materials
 
 social:
@@ -14,7 +11,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?hl=zh-CN&user=NUJj_7UAAAAJ
-
+organizations:
+  - name: National University of Singapore
+    url: ""
 education:
   courses:
     - course: PhD in Biomass Science and Engineering
@@ -23,7 +22,8 @@ education:
     - course: BEng in Bioengineering
       institution: Wuhan University of Science and Technology (WUST)
       year: 2017
-
+email: ""      
+superuser: false
 user_groups:
   - Research Fellows
 highlight_name: false
