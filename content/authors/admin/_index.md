@@ -8,7 +8,7 @@ interests:
   - Soft Matter Engineering
   - Bioelectronics
   - Biointerfaces
-  - LivingMaterials
+  - Living Materials
 social:
   - icon: envelope
     icon_pack: fas
