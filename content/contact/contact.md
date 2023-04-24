@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: y.lin@nus.edu.sg
+  email: y.lin at nus.edu.sg
   phone: 65168405
   address:
     street: Blk E5 03-04, 4 Engineering Drive 4
