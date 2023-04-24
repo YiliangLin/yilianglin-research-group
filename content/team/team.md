@@ -20,7 +20,8 @@ content:
     - Research Fellows
     - Graduate Students
     - Administration
-    - Visiting Students and Scholars
+    - Visiting Scholars
+    - Visiting Students
     - Research Project Students
     - Alumni
 design:
