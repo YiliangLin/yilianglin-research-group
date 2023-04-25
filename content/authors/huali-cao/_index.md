@@ -8,10 +8,10 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in 
+    - course: PhD in Dermatology
       institution: Zhejiang University
       year: 
-    - course: BEng in 
+    - course: Bachelor of Medicine in Clinical Medicine
       institution: Zhejiang University
       year: 
 email: ""      
