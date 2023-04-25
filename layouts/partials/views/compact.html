@@ -36,11 +36,15 @@
 
 
 {{/* Get date. */}}
-{{ if eq $item.Type "publication" }}
 {{ $date := "" }}
-{{ if $item.Params.date }}
-  {{ $date = index (split (index (split $item.Params.date " ") 0) "-") 0 }}
-{{ end }}
+{{ if eq $item.Type "publication" }}
+  {{ if $item.Params.date }}
+    {{ $date = index (split (index (split $item.Params.date " ") 0) "-") 0 }}
+  {{ end }}
+{{ else }}
+  {{ if $item.Params.date }}
+    {{ $date = $item.Params.date }}
+  {{ end }}
 {{ end }}
 
 <div class="media stream-item view-compact">
