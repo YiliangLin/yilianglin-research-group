@@ -1,5 +1,5 @@
 ---
-title: Our Nature Chemistry Work is highlighted in UChicago News and Office of Science Homepage!
+title: Our Nature Chemistry work is highlighted in UChicago News and Office of Science homepage!
 date: 2022-11-29
 ---
 UChicago researchers take inspiration from soil to create new material with promise for medical, biofuel technology. Check the link below.
