@@ -1,9 +1,9 @@
 ---
-title: Dr. Ming Wang Joined Us as The First Research Fellow. Welcome!
+title: Dr. Ming Wang officially joined us as the first Research Fellow. Welcome!
 date: 2023-04-10
 ---
 
-Dr. Ming Wang Joined Us as The First Research Fellow. Welcome, Dr. Wang!
+Dr. Ming Wang joined us as the first Research Fellow. Welcome, Dr. Wang!
 
 <!--more-->
 
