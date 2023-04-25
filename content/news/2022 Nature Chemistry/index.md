@@ -1,9 +1,9 @@
 ---
-title: Our Research Paper on Soil-Inspired Chemical System Is Published On Nature Chemistry!
+title: Our research paper on soil-inspired chemical system is published in Nature Chemistry!
 date: 2022-10-24
 ---
 
-Our Research Paper on Soil-Inspired Chemical System Is Published On Nature Chemistry! Check the link https://www.nature.com/articles/s41557-022-01064-2
+Our research paper on soil-inspired chemical system is published in Nature Chemistry! Check the link https://www.nature.com/articles/s41557-022-01064-2
 
 <!--more-->
 
