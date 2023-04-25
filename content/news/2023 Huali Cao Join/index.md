@@ -1,6 +1,9 @@
 ---
 title: Dr. Huali Cao officially joined ss as a visiting scholar. Welcome!
 date: 2023-03-21
+share: false
+authors:
+  - "Huali Cao"
 ---
 
 Dr. Huali Cao joined ss as a visiting scholar! Welcome, Dr. Cao!
