@@ -1,9 +1,9 @@
 ---
-title: Haoran Cheng Joined Us as A Visiting Student. Welcome!
+title: Haoran Cheng joined us as a visiting student. Welcome!
 date: 2023-03-20
 ---
 
-Haoran Cheng Joined Us as A Visiting Student! Welcome, Haoran!
+Haoran Cheng joined us as a visiting student! Welcome, Haoran!
 
 <!--more-->
 
