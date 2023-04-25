@@ -7,4 +7,5 @@ Dr. Ming Wang Joined Us as The First Research Fellow. Welcome, Dr. Wang!
 
 <!--more-->
 
-Jianwei will join Dr. Lin’s lab as a graduate student in Fall 2023. Before that, he received his Master’s degree in Nanoscience and Technology from National Center for Nanoscience and Technology (NCNST), University of Chinese Academy of Sciences. Jianwei’s research interests include living materials and soft matter engineering. He has been awarded with many scholarships, including China National Scholarship and Academic Scholarship.
+Ming joined Dr. Lin’s lab as a postdoctoral scholar in April 2023. Prior to that, he studied at Prof. ‪Orlando J. Rojas’s lab (UBC) for 1 year and received his Ph.D. in biomass science and engineering from South China University of Technology (SCUT) in 2022. Ming’s research interests include tissue-like soft materials, flexible electronics and bio-based materials. Ming Wang has received many accolades, including the “He Jingtang” Science & Technology Innovation Scholarship, China National Scholarship and President’s Scholarship.
+
