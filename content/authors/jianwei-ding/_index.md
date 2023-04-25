@@ -18,7 +18,7 @@ education:
   courses:
     - course: M.S. in Nanoscience and Technology
       institution: National Center for Nanoscience and Technology (NCNST), Chinese Academy of Science, China
-      year: 2021
+      year: 2022
     - course: B.S. in Materia Medica
       institution: Capital Medical University, China
       year: 2018
