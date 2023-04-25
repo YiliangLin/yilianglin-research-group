@@ -43,7 +43,7 @@
   {{ end }}
 {{ else }}
   {{ if $item.Params.date }}
-    {{ $date = $item.Params.date }}
+    {{ $date = index (split $item.Params.date " ") 0 }}
   {{ end }}
 {{ end }}
 
