@@ -1,7 +1,7 @@
 ---
 title: Jianwei Ding accepted the offer as a Ph.D. student in Fall 2023. Welcome!
 date: 2023-04-10
-author: ""
+authors: ""
 ---
 
 Jianwei Ding accepted the offer and will joined ss as a Ph.D. student in fall 2023. Welcome, Jianwei!
