@@ -44,7 +44,7 @@ image:
 
 links:
   - name: Link
-    url: https://doi.org/10.1038/s41557-022-01064-2
+    url: https://www.science.org/doi/10.1126/sciadv.adg5858
 url_pdf: https://github.com/YiliangLin/yilianglin-research-group/files/9957984/Lin.et.al.-.2022.-.A.soil-inspired.dynamically.responsive.chemical.sy.pdf
 
 
