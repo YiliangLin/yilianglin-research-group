@@ -9,7 +9,7 @@ We have a few openings available for highly qualified and motivated graduate stu
 
 There are a few projects for postdoctoral fellows in _bioelectronics, living materials, polymer synthesis, additive manufacturing, and wearable devices. Research experience in animal, cell culture, microfabrication, polymer synthesis, and electrical engineering_ would be a bonus. Please email Prof. Lin (y.lin@nus.edu.sg) with your CV, at least two names of the referees, and 5-slide presentation that summarizes your previous research accomplishments with the subject “Postdoc Application”.  Please also state your career plan in the email. The position will remain open until filled.
 
-**Opportunity for Master Student and Final-Year Project Student (Undergraduate)**
+**Opportunity for  Final-Year Project Students (Undergraduate) and Master Students**
 
 We welcome students with a strong interest in research to join our group for exploration and further building up research experience/expertise. Prof. Lin has very extensive experience mentoring both undergraduate students and master students, and many of them got nice publications and further pursued graduate study in top universities (i.e., Standford University, Yale University, University of Wisconsin-Madson et al). Interested applicants can email Prof. Lin (y.lin@nus.edu.sg) with your CV. 
 
