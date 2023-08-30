@@ -17,7 +17,6 @@ authors:
   - "[ Kristine Deleon-pennell]()"
   - "[ Bozhi Tian]()"
   - "[ Ying Mei]()"
-
 publication: Science Advances
 
 abstract:  >-
