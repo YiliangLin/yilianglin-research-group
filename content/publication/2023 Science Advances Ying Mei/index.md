@@ -40,7 +40,7 @@ image:
 links:
   - name: Link
     url: https://www.science.org/doi/full/10.1126/sciadv.adf2898
-    url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/assets/media/Tan%20et%20al.%20-%202023%20-%20Nanowired%20human%20cardiac%20organoid%20transplantation%20e.pdf
+    url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/assets/media/Tan%20et%20al.%20-%202023%20-%20Nanowired%20human%20cardiac%20organoid%20transplantation%20e.pdf?raw=true
 
 date: 2023-08-15T05:30:47.788Z
 ---
