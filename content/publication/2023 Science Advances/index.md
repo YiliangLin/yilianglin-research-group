@@ -45,7 +45,7 @@ image:
 links:
   - name: Link
     url: https://www.science.org/doi/10.1126/sciadv.adg5858
-url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/assets/media/lin-et-al.-2023-periplasmic-biomineralization-for-semi-artificial-.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/assets/media/lin-et-al.-2023-periplasmic-biomineralization-for-semi-artificial-.pdf?raw=true
 
 
 date: 2023-07-26T05:30:47.788Z
