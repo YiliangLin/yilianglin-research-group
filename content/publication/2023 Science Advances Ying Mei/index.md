@@ -1,5 +1,5 @@
 ---
-title: Periplasmic Biomineralization for Semi-Artificial Photosynthesis
+title: Nanowired human cardiac organoid transplantation enables highly efficient and effective recovery of infarcted hearts
 subtitle: Science Advances 2023
 publication_types:
   - "2"
