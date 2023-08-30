@@ -3,20 +3,7 @@ title: Nanowired human cardiac organoid transplantation enables highly efficient
 subtitle: Science Advances 2023
 publication_types:
   - "2"
-authors:
-  - "[ Yu Tan]()"
-  - "[ Robert C. Coyle]()"
-  - "[ Ryan W. Barrs]()"
-  - "[ Sophia E. Silver]()"
-  - "[ Mei Li]()"
-  - "[ Dylan J. Richards]()"
-  - "[**Yiliang Lin**](/author/yiliang-lin)"
-  - "[ Yuanwen Jiang]()"
-  - "[ Hongjun Wang]()"
-  - "[ Donald R. Menick]()"
-  - "[ Kristine Deleon-pennell]()"
-  - "[ Bozhi Tian]()"
-  - "[ Ying Mei]()"
+
 publication: Science Advances
 
 abstract:  >-
