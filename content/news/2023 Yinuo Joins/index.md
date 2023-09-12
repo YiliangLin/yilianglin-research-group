@@ -1,12 +1,12 @@
 ---
-title: Ms. Yinuo Wang joined as a master student. Welcome!
+title: Yinuo Wang joined as a master student. Welcome!
 date: 2023-09-11
 share: false
 authors:
   - "Yinuo Wang"
 ---
 
-Ms. Yinuo joined as a master student. Welcome!
+Yinuo joined as a master student. Welcome!
 
 <!--more-->
 
