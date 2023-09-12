@@ -1,12 +1,12 @@
 ---
-title: Mr. Yixi Li joined as a master student. Welcome!
+title: Yixi Li joined as a master student. Welcome!
 date: 2023-08-15
 share: false
 authors:
   - "Yixi Li"
 ---
 
-Mr. Yixi Li joined as a master student. Welcome!
+Yixi Li joined as a master student. Welcome!
 
 <!--more-->
 
