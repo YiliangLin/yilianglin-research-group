@@ -4,12 +4,6 @@ role: Visiting Student
 avatar_filename: null
 bio: My research interests focuses on functionalized modification of bio-based polymer materials and electrostatically spun nanofibers.
 
-
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:
-
 organizations:
   - name: National University of Singapore
     url: ""
