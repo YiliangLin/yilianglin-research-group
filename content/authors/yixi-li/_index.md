@@ -18,7 +18,7 @@ education:
   courses:
     - course: B.S. in Chemical Engineering 
       institution: Guangdong Technion-Israel Institute of Technology (GTIIT), China
-      year: 2018
+      year: 2023
 email: ""      
 superuser: false
 user_groups:
