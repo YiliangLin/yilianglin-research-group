@@ -8,7 +8,7 @@ bio: My research interests focuses on functionalized modification of bio-based p
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:y21210025@mail.ecust.edu.cn
+    link: mailto:
 
 organizations:
   - name: National University of Singapore
