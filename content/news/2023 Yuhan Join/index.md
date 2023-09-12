@@ -6,7 +6,7 @@ authors:
   - "Yuhan Xu"
 ---
 
-Yinuo joined as a visiting student. Welcome!
+Yuhan Xu joined as a visiting student. Welcome!
 
 <!--more-->
 
