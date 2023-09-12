@@ -1,12 +1,12 @@
 ---
-title: Ms. Yuhan Xu joined as a visiting student. Welcome!
+title: Yuhan Xu joined as a visiting student. Welcome!
 date: 2023-09-6
 share: false
 authors:
   - "Yuhan Xu"
 ---
 
-Ms. Yuhan Xu joined as a visiting student. Welcome!
+Yuhan Xu joined as a visiting student. Welcome!
 
 <!--more-->
 
