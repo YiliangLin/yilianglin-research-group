@@ -30,7 +30,6 @@ featured: false
 
 tags:
   - Biointerfaces
-  - featured
 
 image:
   filename: featured
