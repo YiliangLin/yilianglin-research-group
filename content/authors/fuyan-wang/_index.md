@@ -21,4 +21,4 @@ user_groups:
 highlight_name: false
 
 ---
-Fuyan Wang is a visiting scholar in Lin research group. She is a clinician in Qingdao Eye Hospital of Shandong First Medical University. Her main research interest is the application of living materials in the treatment of cornea wound healing.
+Fuyan Wang is a visiting scholar in Lin research group. She is a clinician in Qingdao Eye Hospital of Shandong First Medical University. Her main research interest is the application of tissue-like materials in the treatment of cornea wound healing.
