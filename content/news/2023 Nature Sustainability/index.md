@@ -1,5 +1,5 @@
 ---
-title: Our collaborative work on microbial hybrids for wastewater treatment is is published in Nature Sustainability!
+title: Our collaborative work on microbial hybrids for wastewater treatment is published in Nature Sustainability!
 date: 2023-10-16
 ---
 
