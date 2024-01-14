@@ -51,7 +51,7 @@ image:
 links:
   - name: Link
     url: https://www.nature.com/articles/s44286-023-00008-y
-url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/assets/media/Pi%20et%20al.%20-%202023%20-%20Solar-driven%20waste-to-chemical%20conversion%20by%20waste.pdf?raw=true
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/assets/media/s44286-023-00008-y.pdf?raw=true
 
 date: 2024-01-14T05:30:47.788Z
 ---
