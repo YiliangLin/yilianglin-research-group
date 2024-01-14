@@ -48,5 +48,5 @@ links:
 url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/assets/media/lin-et-al.-2023-periplasmic-biomineralization-for-semi-artificial-.pdf?raw=true
 
 
-date: 2023-07-26T05:30:47.788Z
+date: 2023-12-26T05:30:47.788Z
 ---
