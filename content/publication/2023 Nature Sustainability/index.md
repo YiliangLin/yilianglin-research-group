@@ -1,5 +1,5 @@
 ---
-title: Solar-driven waste-to-chemical conversion by wastewater-derived semiconductor biohybrids
+title: Solar-Driven Waste-to-Chemical Conversion by Wastewater-Derived Semiconductor Biohybrids
 subtitle: Nature Sustainability 2023
 publication_types:
   - "2"
