@@ -1,5 +1,5 @@
 ---
-title: Nanowired human cardiac organoid transplantation enables highly efficient and effective recovery of infarcted hearts
+title: Nanowired Human Cardiac Organoid Transplantation Enables Highly Efficient and Effective Recovery of Infarcted Hearts
 subtitle: Science Advances 2023
 publication_types:
   - "2"
