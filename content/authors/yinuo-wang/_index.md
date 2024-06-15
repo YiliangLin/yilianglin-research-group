@@ -22,7 +22,7 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Graduate Students
+  - Alumni
 highlight_name: false
 
 ---
