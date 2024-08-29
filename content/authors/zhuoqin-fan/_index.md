@@ -1,6 +1,6 @@
 ---
 title: Zhuoqin Fan
-role: Graduate Student
+role: Master of Science
 avatar_filename: null
 bio: My research interests include microfluidics
 
