@@ -1,6 +1,6 @@
 ---
 title: Xuren Zhou
-role: Graduate Student
+role: Master of Science
 avatar_filename: null
 bio: My research interests include artificial symbiont towards sunlight-driven sustainable N2 fixation
 
