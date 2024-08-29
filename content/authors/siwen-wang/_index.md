@@ -25,4 +25,4 @@ user_groups:
 highlight_name: false
 
 ---
-Siwen Wang joined Lin’s group as a undergraduate research (4th year) in 2024. She has studied at East China University of Science and Technology since 2021，during which she did research about 5G thermotropic liquid crystal polymer materials. In 2024, She was awarded second prize and excellent case award in China national Chemical Reaction Engineering Course Model Design Competition. Her research interests include living materials and applications in biomedical fields.
+Siwen Wang joined Lin’s group as a undergraduate researcher (4th year) in 2024. She has studied at East China University of Science and Technology since 2021，during which she did research about 5G thermotropic liquid crystal polymer materials. In 2024, She was awarded second prize and excellent case award in China national Chemical Reaction Engineering Course Model Design Competition. Her research interests include living materials and applications in biomedical fields.
