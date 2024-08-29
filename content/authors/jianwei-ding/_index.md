@@ -8,7 +8,7 @@ bio: My research interests include living materials and soft matter engineering
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:dingjw2021@outlook.com
+    link: mailto:e1144119@u.nus.edu
 
 organizations:
   - name: National University of Singapore
