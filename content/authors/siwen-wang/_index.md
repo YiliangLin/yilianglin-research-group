@@ -1,6 +1,6 @@
 ---
 title: Siwen Zhang
-role: Graduate Student
+role: Research Project Students
 avatar_filename: null
 bio: My research interests include living materials and applications in biomedical fields
 
