@@ -1,6 +1,6 @@
 ---
 title: Jianwei Ding
-role: Graduate Student
+role: PhD Student
 avatar_filename: null
 bio: My research interests include living materials and soft matter engineering
 
@@ -25,7 +25,7 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Graduate Students
+  - PhD Students
 highlight_name: false
 
 ---
