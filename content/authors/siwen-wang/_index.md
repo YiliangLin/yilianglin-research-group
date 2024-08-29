@@ -21,7 +21,7 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Graduate Students
+  - Research Project Students
 highlight_name: false
 
 ---
