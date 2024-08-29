@@ -28,8 +28,8 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Research Fellows
+  - Alumni
 highlight_name: false
 
 ---
-Dongna joined Dr. Lin’s lab as a postdoctoral scholar in November 2023. She received her Ph.D. in materials science and engineering from Zhejiang University (joint with Westlake University) in 2023. Dongna’s research interests include flexible electronics, additive manufacturing, multi-materials printing and artificial photosynthesis. Dongna Liu has received many accolades, including the China National Scholarship, The First Prize Scholarship and Graduate of Merit/Triple A Graduate.
+Dongna joined Dr. Lin’s lab as a postdoctoral scholar in November 2023. She received her Ph.D. in materials science and engineering from Zhejiang University (joint with Westlake University) in 2023. Dongna’s research interests include flexible electronics, additive manufacturing, multi-materials printing and artificial photosynthesis. Dongna Liu has received many accolades, including the China National Scholarship, The First Prize Scholarship and Graduate of Merit/Triple A Graduate. Dongna is currently a postdoctoral in Westlake University.
