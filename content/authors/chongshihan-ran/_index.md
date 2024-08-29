@@ -1,6 +1,6 @@
 ---
 title: Chongshihan Ran
-role: Graduate Student
+role: PhD Students
 avatar_filename: null
 bio: My research interests include novel catalysts design for sustainable applications
 
@@ -24,7 +24,7 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Graduate Students
+  - PhD Students
 highlight_name: false
 
 ---
