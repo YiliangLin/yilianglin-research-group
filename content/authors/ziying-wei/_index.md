@@ -1,6 +1,6 @@
 ---
 title: Ziying Wei
-role: Graduate Student
+role: Master of Science
 avatar_filename: null
 bio: My research interests include soft matter engineering
 
