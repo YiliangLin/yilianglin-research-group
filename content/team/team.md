@@ -23,6 +23,8 @@ content:
     - Visiting Scholars
     - Visiting Students
     - Research Project Students
+    - Ph.D. Student
+    - Master Student
     - Alumni
 design:
   show_interests: false
