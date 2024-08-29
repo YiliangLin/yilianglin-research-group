@@ -1,6 +1,6 @@
 ---
 title: Yinuo Wang
-role: Graduate Student
+role: Master of Science
 avatar_filename: null
 bio: My research interests focuses on biomedical use of hydrogel-bacterial composites.
 
