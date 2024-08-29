@@ -16,7 +16,7 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Visiting Students
+  - Visiting Scholars
 highlight_name: false
 
 ---
