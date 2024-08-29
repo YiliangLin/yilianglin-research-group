@@ -22,9 +22,9 @@ content:
     - PhD Students
     - Master's Students
     - Administration
+    - Research Project Students
     - Visiting Scholars
     - Visiting Students
-    - Research Project Students
     - Alumni
 design:
   show_interests: false
