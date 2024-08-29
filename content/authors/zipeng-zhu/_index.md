@@ -1,6 +1,6 @@
 ---
 title: Zipeng Zhu
-role: Research Project Students
+role: Final Year Project Student
 avatar_filename: null
 bio: My research interests include biohybrids living materials
 
