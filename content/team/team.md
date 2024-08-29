@@ -18,8 +18,8 @@ content:
   user_groups:
     - Principal Investigators
     - Research Fellows
-    - Graduate Students
     - PhD Students
+    - Graduate Students
     - Master's Students
     - Administration
     - Research Project Students
