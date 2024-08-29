@@ -1,6 +1,6 @@
 ---
 title: Yixi Li
-role: Graduate Student
+role: Master of Science
 avatar_filename: null
 bio: My research interests focuses on multi-scale structures design for tissue-like materials.
 
@@ -22,8 +22,8 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Graduate Students
+  - Alumni
 highlight_name: false
 
 ---
-Yixi Li joined Dr. Lin’s lab as a master student in August 2023. He received his bachelor's degree in Chemical Engineering from Guangdong Technion-Israel Institute of Technology (GTIIT). During the undergraduate period, he centered on Super quadric DEM simulation of cylindrical biomass pellets and spheres discharging. Yixi’s current research mainly focuses on multi-scale structures design for tissue-like materials.
+Yixi Li joined Dr. Lin’s lab as a master student in August 2023. He received his bachelor's degree in Chemical Engineering from Guangdong Technion-Israel Institute of Technology (GTIIT). During the undergraduate period, he centered on Super quadric DEM simulation of cylindrical biomass pellets and spheres discharging. Yixi’s current research mainly focuses on multi-scale structures design for tissue-like materials. Yixi is currently an engineer in Sinopec.
