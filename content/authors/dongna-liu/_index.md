@@ -5,9 +5,6 @@ avatar_filename: null
 bio: My research interests include flexible electronics, additive manufacturing, multi-materials printing and artificial-photosynthesis
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:dongna_l@nus.edu.sg
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=GEhkkuYAAAAJ&hl=zh-CN
