@@ -7,7 +7,7 @@ bio: My research interests include biohybrids living materials
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:e1144119@u.nus.edu
+    link: mailto:e1347227@u.nus.edu
 
 organizations:
   - name: National University of Singapore
