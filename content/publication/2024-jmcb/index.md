@@ -1,5 +1,5 @@
 ---
-title: Hydrogels':' a promising therapeutic platform for inflammatory skin diseases treatment (Invited Review)
+title: Hydrogels_:_ a promising therapeutic platform for inflammatory skin diseases treatment (Invited Review)
 subtitle: Journal of Materials Chemistry B 2024
 publication_types:
   - "2"
