@@ -38,7 +38,6 @@ image:
 links:
   - name: Link
     url: https://www-science-org.libproxy1.nus.edu.sg/doi/10.1126/science.adn8168
-url_pdf: ?raw=true
 
 date: 2024-08-08T05:30:47.788Z
 ---
