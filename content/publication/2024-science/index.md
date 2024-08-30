@@ -38,7 +38,7 @@ image:
 links:
   - name: Link
     url: https://www-science-org.libproxy1.nus.edu.sg/doi/10.1126/science.adn8168
-    url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/assets/media/Luo%20et%20al.%20-%202024%20-%20Wrinkled%20metal-organic%20framework%20thin%20films%20with%20t.pdf?raw=true
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/assets/media/Luo%20et%20al.%20-%202024%20-%20Wrinkled%20metal-organic%20framework%20thin%20films%20with%20t.pdf?raw=true
 
 date: 2024-08-08T05:30:47.788Z
 ---
