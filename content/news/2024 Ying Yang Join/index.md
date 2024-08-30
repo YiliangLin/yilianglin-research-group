@@ -1,6 +1,6 @@
 ---
 title: Dr. Ying Yang officially joined us as a Research Fellow. Welcome!
-date: 2023-04-10
+date: 2024-05-27
 share: false
 authors:
   - "Ying Yang"
