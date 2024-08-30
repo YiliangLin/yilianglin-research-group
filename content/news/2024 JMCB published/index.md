@@ -1,1 +1,10 @@
-JMCB Published
+---
+title: Our invited review on hydrogels for inflammatory skin diseases treatment is published in Journal of Materials Chemistry B!
+date: 2024-07-13
+---
+
+Our invited review on hydrogels for inflammatory skin diseases treatment has been published in Journal of Materials Chemistry B! Congrats Dr. Huali Cao, Dr. Ming Wang and Jianwei!
+Please check the link: https://pubs.rsc.org/en/content/articlelanding/2024/tb/d4tb00887a
+
+<!--more-->
+Inflammatory skin diseases, such as psoriasis and atopic dermatitis, pose significant health challenges due to their long-lasting nature, potential for serious complications, and significant health risks, which requires treatments that are both effective and exhibit minimal side effects. Hydrogels offer an innovative solution due to their biocompatibility, tunability, controlled drug delivery capabilities, enhanced treatment adherence and minimized side effects risk. This review explores the mechanisms that guide the design of hydrogel therapeutic platforms from multiple perspectives, focusing on the components of hydrogels, their adjustable physical and chemical properties, and their interactions with cells and drugs to underscore their clinical potential. We also examine various therapeutic agents for psoriasis and atopic dermatitis that can be integrated into hydrogels, including traditional drugs, novel compounds targeting oxidative stress, small molecule drugs, biologics, and emerging therapies, offering insights into their mechanisms and advantages. Additionally, we review clinical trial data to evaluate the effectiveness and safety of hydrogel-based treatments in managing psoriasis and atopic dermatitis under complex disease conditions. Lastly, we discuss the current challenges and future opportunities for hydrogel therapeutics in treating psoriasis and atopic dermatitis, such as improving skin barrier penetration and developing multifunctional hydrogels, and highlight emerging opportunities to enhance long-term safety and stability.
