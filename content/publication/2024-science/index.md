@@ -4,7 +4,7 @@ subtitle: Science 2024
 publication_types:
   - "2"
 authors:
-  - "[Xinyu Luo]()"
+  - "[ Xinyu Luo ]()"
   - "[ Ming Zhang]()"
   - "[ Yubin Hu]()"
   - "[ Yan Xu]()"
