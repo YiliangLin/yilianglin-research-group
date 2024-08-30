@@ -4,7 +4,7 @@ subtitle: Nanoscale 2024
 publication_types:
   - "2"
 authors:
-  - "[ Ming Wang]()"
+  - "[ Ming Wang](/author/ming-wang)"
   - "[**Yiliang Lin_*_**](/author/yiliang-lin)"
 
 publication: Nanoscale
