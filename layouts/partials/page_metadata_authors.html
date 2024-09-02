@@ -22,7 +22,7 @@
           {{- if strings.HasSuffix $_LinkTitle "()" -}}
             {{ substr $_LinkTitle 1 -3 | markdownify}}
           {{- else -}}
-            {{ $_LinkTitle | markdownify }}
+            <a href="{{.RelPermalink}}">{{ $_LinkTitle | markdownify }}</a>
           {{- end -}}
         {{- else -}}
           {{ .LinkTitle | markdownify }}
