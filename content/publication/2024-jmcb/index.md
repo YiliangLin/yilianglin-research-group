@@ -4,6 +4,8 @@ subtitle: Journal of Materials Chemistry B 2024
 publication_types:
   - "2"
 authors:
+  - "admin"
+  - "ming-wang"
   - "[ Huali Cao_†_](/author/huali-cao)"
   - "[ Ming Wang_†_](/author/ming-wang)"
   - "[ Jianwei Ding](/author/jianwei-ding)"
