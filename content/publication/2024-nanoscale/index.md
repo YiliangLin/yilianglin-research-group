@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - "[ Ming Wang](/author/ming-wang)"
-  - "[**Yiliang Lin_*_**](/author/yiliang-lin)"
+  - "[Yiliang Lin_*_](/author/yiliang-lin)"
 
 publication: Nanoscale
 
