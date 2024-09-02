@@ -13,7 +13,7 @@ authors:
   - "[ Howard J. Walls]()"
   - "[ Gregory W. Peterson]()"
   - "[ Mark D. Losego]()"
-  - "[ Gregory N. Parsons_*_]()"
+  - "[ Gregory N. Parsons_*__]()"
 publication: JACS
 
 abstract:  >-

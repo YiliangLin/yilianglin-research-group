@@ -8,8 +8,8 @@ authors:
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Abolfazl Kiani]()"
   - "[ Ishan D. Joshipura]()"
-  - "[ Mingqiao Ge _*_]()"
-  - "[ Michael D. Dickey _*_]()"
+  - "[ Mingqiao Ge _*__]()"
+  - "[ Michael D. Dickey _*__]()"
 publication: Nature Communciation
 
 abstract:  >-

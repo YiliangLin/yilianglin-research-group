@@ -20,7 +20,7 @@ authors:
   - "[ Eugene B. Chang]()"
   - "[ Pablo Penaloza-MacMaster]()"
   - "[ Bozhi Tian]()"
-  - "[ Jun Huang_*_]()"
+  - "[ Jun Huang_*__]()"
 
 publication: Advanced Science
 

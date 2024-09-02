@@ -5,11 +5,11 @@ subtitle: Langmuir 2019
 publication_types:
   - "2"
 authors:
-  - "[Yuanchao Li_*_]()"
+  - "[Yuanchao Li_*__]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Yunkai Dai]()"
   - "[ Yeongun Ko]()"
-  - "[ Jan Genzer_*_]()"
+  - "[ Jan Genzer_*__]()"
 publication: Langmuir
 
 abstract:  >-

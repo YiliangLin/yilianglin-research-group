@@ -7,8 +7,8 @@ authors:
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Sharvil C. Desai]()"
   - "[ Arjun S. Krishnan]()"
-  - "[ Richard J. Spontak_*_]()"
-  - "[ Michael D. Dickey_*_]()"
+  - "[ Richard J. Spontak_*__]()"
+  - "[ Michael D. Dickey_*__]()"
 
 publication: Soft Matter
 

@@ -22,7 +22,7 @@ authors:
   - "[ Pablo Penaloza-MacMaster]()"
   - "[ Bozhi Tian]()"
   - "[ Maria Lucia Madariaga]()"
-  - "[ Jun Huang_*_]()"
+  - "[ Jun Huang_*__]()"
 
 publication: Matter
 

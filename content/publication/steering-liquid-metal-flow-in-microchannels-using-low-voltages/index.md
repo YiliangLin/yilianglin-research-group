@@ -6,8 +6,8 @@ authors:
   - "[Shi-Yang Tang]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Ishan D. Joshipura]()"
-  - "[ Khashayar Khoshmanesh_*_]()"
-  - "[ and Michael D. Dickey_*_]()"
+  - "[ Khashayar Khoshmanesh_*__]()"
+  - "[ and Michael D. Dickey_*__]()"
   - 
 publication: Lab on A Chip
 

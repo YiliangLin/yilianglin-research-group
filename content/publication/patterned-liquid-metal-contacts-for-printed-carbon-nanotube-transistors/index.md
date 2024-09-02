@@ -12,8 +12,8 @@ authors:
   - "[ Dishit P. Parekh]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Peter Ballentine]()"
-  - "[ Michael D. Dickey_*_]()"
-  - "[ Aaron D. Franklin_*_]()"
+  - "[ Michael D. Dickey_*__]()"
+  - "[ Aaron D. Franklin_*__]()"
 publication: ACS Nano
 
 abstract:  >-

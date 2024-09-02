@@ -5,10 +5,10 @@ publication_types:
   - "2"
 authors:
   - “admin”
-  - "[Yiliang Lin_*_](/author/yiliang-lin)"
+  - "[Yiliang Lin_*__](/author/yiliang-lin)"
   - "[ Yin Fang]()"
   - "[ Jiping Yue]()"
-  - "[ Bozhi Tian_*_]()"
+  - "[ Bozhi Tian_*__]()"
 publication: Trends in Chemistry
 
 abstract:  >-

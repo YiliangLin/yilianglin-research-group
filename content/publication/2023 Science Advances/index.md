@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - "admin"
-  - "[**Yiliang Lin_†__*_**](/author/yiliang-lin)"
+  - "[**Yiliang Lin_†__*__**](/author/yiliang-lin)"
   - "[ Jiuyun Shi_†_]()"
   - "[ Wei Feng_†_]()"
   - "[ Jianping Yue]()"
@@ -19,8 +19,8 @@ authors:
   - "[ Aleksander Prominski]()"
   - "[ Dmitri V. Talapin()"
   - "[ Wei Xiong]()"
-  - "[ Xiang Gao_*_]()"
-  - "[ Bozhi Tian_*_]()"
+  - "[ Xiang Gao_*__]()"
+  - "[ Bozhi Tian_*__]()"
 publication: Science Advances
 
 abstract:  >-

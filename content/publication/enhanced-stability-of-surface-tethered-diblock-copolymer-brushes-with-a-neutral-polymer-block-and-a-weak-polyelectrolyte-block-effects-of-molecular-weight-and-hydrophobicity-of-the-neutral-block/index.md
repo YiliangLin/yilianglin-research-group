@@ -7,7 +7,7 @@ authors:
   - "[ Yeongun Ko]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Douglas Kiserow]()"
-  - "[ Jan Genzer_*_]()"
+  - "[ Jan Genzer_*__]()"
 
 publication: Macromolecules
 

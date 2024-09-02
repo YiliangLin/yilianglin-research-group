@@ -15,7 +15,7 @@ authors:
   - "[ Maxim A. Voinov]()"
   - "[ Alex I. Smirnov]()"
   - "[ Jan Genzer]()"
-  - "[ Michael D. Dickey_*_]()"
+  - "[ Michael D. Dickey_*__]()"
 publication: ACS Macro Letters
 
 abstract:  >-

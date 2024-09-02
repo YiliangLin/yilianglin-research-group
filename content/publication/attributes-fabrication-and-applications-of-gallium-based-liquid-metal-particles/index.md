@@ -8,7 +8,7 @@ authors:
   - "admin"
   - "[**Yiliang Lin**](/author/yiliang-lin)"
   - "[ Jan Genzer]()"
-  - "[ Michael D. Dickey_*_]()"
+  - "[ Michael D. Dickey_*__]()"
 publication: Advanced Science
 
 abstract:  >-

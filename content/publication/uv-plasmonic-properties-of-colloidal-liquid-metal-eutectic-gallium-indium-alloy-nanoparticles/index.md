@@ -5,12 +5,12 @@ subtitle: Scientific Reports 2019
 publication_types:
   - "2"
 authors:
-  - "[Philipp Reineck_*_]()"
+  - "[Philipp Reineck_*__]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Brant C. Gibson]()"
   - "[ Michael D. Dickey]()"
   - "[ Andrew D. Greentree]()"
-  - "[ Ivan S. Maksymov_*_]()"
+  - "[ Ivan S. Maksymov_*__]()"
 publication: Scientific Reports
 
 abstract:  >-

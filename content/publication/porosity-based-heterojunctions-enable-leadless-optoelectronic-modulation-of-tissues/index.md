@@ -12,8 +12,8 @@ authors:
   - "[ Jiping Yue]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Jihun Park]()"
-  - "[ Bozhi Tian_*_]()"
-  - "[ Menahem Y. Rotenberg_*_]()"
+  - "[ Bozhi Tian_*__]()"
+  - "[ Menahem Y. Rotenberg_*__]()"
 publication: Nature Materials
 
 abstract:  >-

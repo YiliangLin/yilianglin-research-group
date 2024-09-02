@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - "admin"
-  - "[**Yiliang Lin_†__*_**](/author/yiliang-lin)"
+  - "[**Yiliang Lin_†__*__**](/author/yiliang-lin)"
   - "[ Xiang Gao_†_]()"
   - "[ Jiping Yue_†_]()"
   - "[ Yin Fang_†_]()"
@@ -28,7 +28,7 @@ authors:
   - "[ Zhonghou Cai]()"
   - "[ Aleksander Prominski]()"
   - "[ Teri W. Odom]()"
-  - "[ Bozhi Tian_*_]()"
+  - "[ Bozhi Tian_*__]()"
 publication: Nature Chemistry
 
 abstract:  >-

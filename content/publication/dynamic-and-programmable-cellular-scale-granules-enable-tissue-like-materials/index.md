@@ -4,7 +4,7 @@ subtitle: Matter 2020
 publication_types:
   - "2"
 authors:
-  - "[Yin Fang_†__*_]()"
+  - "[Yin Fang_†__*__]()"
   - "[ Endao Han_†_]()"
   - "[ Xin-Xing Zhang_†_]()"
   - "[ Yuanwen Jiang_†_]()"
@@ -31,8 +31,8 @@ authors:
   - "[ Chin-Tu Chen]()"
   - "[ Andrei Tokmakoff]()"
   - "[ Jin Wang]()"
-  - "[ Heinrich M. Jaeger_*_]()"
-  - "[ Bozhi Tian_*_]()"
+  - "[ Heinrich M. Jaeger_*__]()"
+  - "[ Bozhi Tian_*__]()"
 publication: Matter
 
 abstract:  >-

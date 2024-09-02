@@ -9,7 +9,7 @@ authors:
   - "[ Andre Martin]()"
   - "[ Jan Genzer]()"
   - "[ Saad A. Khan]()"
-  - "[ Michael D. Dickey_*_]()"
+  - "[ Michael D. Dickey_*__]()"
   - 
 publication: Extreme Mechanics Letters
 
