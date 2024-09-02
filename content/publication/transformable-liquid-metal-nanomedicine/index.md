@@ -12,7 +12,7 @@ authors:
   - "[ Wujin Sun]()"
   - "[ Frances S. Ligler]()"
   - "[ Michael D. Dickey]()"
-  - "[ Zhen Gu_*_]()"
+  - "[ Zhen Gu_*__]()"
   - 
 publication: Nature Communication
 

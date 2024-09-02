@@ -4,7 +4,7 @@ subtitle: Matter 2019
 publication_types:
   - "2"
 authors:
-  - "[Shi-Yang Tang_*_]()"
+  - "[Shi-Yang Tang_*__]()"
   - "[ David R. G. Mitchell]()"
   - "[ Qianbin Zhao]()"
   - "[ Dan Yuan]()"
@@ -12,8 +12,8 @@ authors:
   - "[ Yuxin Zhang]()"
   - "[ Ruirui Qiao]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
-  - "[ Michael D. Dickey_*_]()"
-  - "[ Weihua Li_*_]()"
+  - "[ Michael D. Dickey_*__]()"
+  - "[ Weihua Li_*__]()"
 publication: Matter
 
 abstract:  >-

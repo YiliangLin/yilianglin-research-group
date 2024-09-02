@@ -7,8 +7,8 @@ authors:
   - "admin"
   - "[**Yiliang Lin**](/author/yiliang-lin)"
   - "[ Yang Liu]()"
-  - "[ Jan Genzer_*_]()"
-  - "[ Michael D. Dickey_*_]()"
+  - "[ Jan Genzer_*__]()"
+  - "[ Michael D. Dickey_*__]()"
 publication: Chemical Science
 
 abstract:  >-

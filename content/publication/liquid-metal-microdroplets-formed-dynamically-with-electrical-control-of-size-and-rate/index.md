@@ -8,8 +8,8 @@ authors:
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Kourosh Kalantar-Zadeh]()"
   - "[ Arnan Mitchell]()"
-  - "[ Khashayar Khoshmanesh_*_]()"
-  - "[ Michael D. Dickey_*_]()"
+  - "[ Khashayar Khoshmanesh_*__]()"
+  - "[ Michael D. Dickey_*__]()"
 
 publication: Advanced Materials
 

@@ -4,7 +4,7 @@ subtitle: Advanced Materials Technologies 2019
 publication_types:
   - "2"
 authors:
-  - "[Shi-Yang Tang_*_]()"
+  - "[Shi-Yang Tang_*__]()"
   - "[ Ruirui Qiao]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Yuhuan Li]()"
@@ -15,8 +15,8 @@ authors:
   - "[ Michael D. Dickey]()"
   - "[ Tony Jun Huang]()"
   - "[ Thomas P. Davis]()"
-  - "[ Kourosh Kalantar-Zadeh_*_]()"
-  - "[ Weihua Li_*_]()"
+  - "[ Kourosh Kalantar-Zadeh_*__]()"
+  - "[ Weihua Li_*__]()"
 publication: Advanced Materials Technologies
 
 abstract:  >-

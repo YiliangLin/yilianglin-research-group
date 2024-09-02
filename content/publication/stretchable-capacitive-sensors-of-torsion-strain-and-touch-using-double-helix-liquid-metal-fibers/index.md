@@ -10,7 +10,7 @@ authors:
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Mohammad Rashed Khan]()"
   - "[ Jan Genzer]()"
-  - "[ Michael D. Dickey_*_]()"
+  - "[ Michael D. Dickey_*__]()"
 
 publication: "Advanced Functional Materials "
 

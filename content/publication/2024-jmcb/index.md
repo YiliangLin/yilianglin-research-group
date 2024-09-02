@@ -9,7 +9,7 @@ authors:
   - "[ Huali Cao_†_](/author/huali-cao)"
   - "[ Ming Wang_†_](/author/ming-wang)"
   - "[ Jianwei Ding](/author/jianwei-ding)"
-  - "[**Yiliang Lin_*_**](/author/yiliang-lin)"
+  - "[**Yiliang Lin_*__**](/author/yiliang-lin)"
 
 publication: Journal of Materials Chemistry B
 

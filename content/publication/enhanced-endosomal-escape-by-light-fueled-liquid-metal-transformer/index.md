@@ -10,9 +10,9 @@ authors:
   - "[ Quanyin Hu]()"
   - "[ Yang Liu]()"
   - "[ Shuangjiang Yu]()"
-  - "[ Wei Gao_*_]()"
-  - "[ Michael D. Dickey_*_]()"
-  - "[ Zhen Gu_*_]()"
+  - "[ Wei Gao_*__]()"
+  - "[ Michael D. Dickey_*__]()"
+  - "[ Zhen Gu_*__]()"
 publication: "Nano Letters "
 
 abstract:  >-

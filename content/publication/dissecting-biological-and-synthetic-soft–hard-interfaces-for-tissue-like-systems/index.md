@@ -12,7 +12,7 @@ authors:
   - "[ Aleksander Prominski]()"
   - "[ Clementene Clayton]()"
   - "[ Ellie Ostroff]()"
-  - "[ Bozhi Tian_*_]()"
+  - "[ Bozhi Tian_*__]()"
 publication: Chemical Reviews
 
 abstract:  >-

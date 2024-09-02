@@ -4,11 +4,11 @@ title: Visualization of Mechanochemically-Assisted Degrafting of
 publication_types:
   - "2"
 authors:
-  - "[Yuanchao Li_*_]()"
+  - "[Yuanchao Li_*__]()"
   - "[ **Yiliang Lin**](/author/yiliang-lin)"
   - "[ Yeongun Ko]()"
   - "[ Douglas Kiserow]()"
-  - "[ Jan Genzer_*_]()"
+  - "[ Jan Genzer_*__]()"
 publication: "ACS Macro Letters "
 
 abstract:  >-

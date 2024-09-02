@@ -5,7 +5,7 @@ subtitle: Science Advances 2020
 publication_types:
   - "2"
 authors:
-  - "[Xiang Gao_†__*_]()"
+  - "[Xiang Gao_†__*__]()"
   - "[ Yuanwen Jiang_†_]()"
   - "[ **Yiliang Lin_†_**](/author/yiliang-lin)"
   - "[ Kyoung-Ho Kim_†_]()"
@@ -23,8 +23,8 @@ authors:
   - "[ Fengyuan Shi]()"
   - "[ Gajendra S. Shekhawat]()"
   - "[ Aaron R. Dinner]()"
-  - "[ Hong-Gyu Park_*_]()"
-  - "[ Bozhi Tian_*_]()"
+  - "[ Hong-Gyu Park_*__]()"
+  - "[ Bozhi Tian_*__]()"
 publication: Science Advances
 
 abstract:  >-

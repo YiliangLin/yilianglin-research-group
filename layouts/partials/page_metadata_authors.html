@@ -13,14 +13,11 @@
         {{$comma_flag = true}}
         {{- if .RelPermalink -}}
           {{- $_LinkTitle := .LinkTitle -}}
-          {{- if in $_LinkTitle "__*_" -}}
-            {{ $_LinkTitle = replace $_LinkTitle "__*_" "*" }}
-          {{- end -}}
-          {{- if in $_LinkTitle "_*_" -}}
-            {{ $_LinkTitle = replace $_LinkTitle "_*_" "*" }}
-          {{- end -}}
           {{- if in $_LinkTitle "_†_" -}}
             {{ $_LinkTitle = replace $_LinkTitle "_†_" "†" }}
+          {{- end -}}
+          {{- if in $_LinkTitle "_*___" -}}
+            {{ $_LinkTitle = replace $_LinkTitle "_*___" "*" }}
           {{- end -}}
           {{- if strings.HasSuffix $_LinkTitle "()" -}}
             {{ substr $_LinkTitle 1 -3 | markdownify}}

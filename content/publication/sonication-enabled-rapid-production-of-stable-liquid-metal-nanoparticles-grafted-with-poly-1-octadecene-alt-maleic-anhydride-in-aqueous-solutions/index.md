@@ -9,8 +9,8 @@ authors:
   - "[ Jan Genzer]()"
   - "[ Weihua Li]()"
   - "[ Ruirui Qiao]()"
-  - "[ Michael D. Dickey_*_]()"
-  - "[ Shi-Yang Tang_*_]()"
+  - "[ Michael D. Dickey_*__]()"
+  - "[ Shi-Yang Tang_*__]()"
 publication: Nanoscale
 
 abstract:  >-
