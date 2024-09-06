@@ -1,5 +1,5 @@
 ---
-title: Siwen Zhang
+title: Siwen Wang
 role: Final Year Project Student
 avatar_filename: null
 bio: My research interests include living materials and applications in biomedical fields
