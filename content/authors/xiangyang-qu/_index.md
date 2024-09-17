@@ -8,7 +8,7 @@ bio: My research interests include Liquid Metal Composite
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:
+    link: mailto:e1331306@u.nus.edu
 
 organizations:
   - name: National University of Singapore
