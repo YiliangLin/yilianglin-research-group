@@ -26,4 +26,4 @@ user_groups:
 highlight_name: false
 
 ---
-Zhijun joined Dr. Lin’s lab as a research fellow in September 2024. Before that, he studied in Harbin institute of technology (HIT) and obtained his Ph.D in chemical engineering. His research interests include the design and construction of abiotic-biotic hybrids, living materials in sustainable energy conversion from solar power, and biomanufacturing from waste resources. He has achieved many accolades, such as China National Scholarship.
+Zhijun joined Dr. Lin’s lab as a research fellow in September 2024, and he is co-supervised by Prof. Bin Liu. Before that, he studied in Harbin institute of technology (HIT) and obtained his Ph.D in chemical engineering. His research interests include the design and construction of abiotic-biotic hybrids, living materials in sustainable energy conversion from solar power, and biomanufacturing from waste resources. He has achieved many accolades, such as China National Scholarship.
