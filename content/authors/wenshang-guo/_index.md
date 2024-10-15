@@ -8,7 +8,6 @@ bio: My research interests include microfluidics
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:
 
 organizations:
   - name: National University of Singapore
@@ -25,7 +24,8 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Alumni
+  - Visiting Scholars
+
 highlight_name: false
 
 ---
