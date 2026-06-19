@@ -17,13 +17,12 @@ summary: >-
   This review discusses living microorganism-encapsulated hydrogels and their microorganism-material synergy for next-generation therapeutic applications.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Living Materials
   - Hydrogels
   - Biointerfaces
-  - featured
 
 image:
   filename: featured
