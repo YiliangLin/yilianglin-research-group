@@ -1,4 +1,4 @@
-{{/* Display author list. */}}
+﻿{{/* Display author list. */}}
 
 {{- $taxonomy := "authors" }}
 {{ if .Param $taxonomy }}
@@ -6,8 +6,9 @@
   {{ range $index, $value := (.GetTerms $taxonomy) }}
     {{- /* Highlight the author's name? */ -}}
     {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+    {{- $underline_yiliang := in .LinkTitle "Yiliang Lin" -}}
     {{- if $comma_flag}}, {{$comma_flag = false}}{{ end -}}
-    <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
+    <span{{ if $highlight_name }} class="author-highlighted"{{end}}{{ if $underline_yiliang }} style="text-decoration: underline; text-underline-offset: 0.12em;"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
       {{- if hasPrefix .LinkTitle "[" -}}
         {{$comma_flag = true}}

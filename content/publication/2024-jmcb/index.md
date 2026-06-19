@@ -1,11 +1,13 @@
----
+﻿---
 title: Hydrogels a promising therapeutic platform for inflammatory skin diseases treatment (Invited Review)
 subtitle: Journal of Materials Chemistry B 2024
 publication_types:
   - "2"
 authors:
   - "admin"
+  - "huali-cao"
   - "ming-wang"
+  - "jianwei-ding"
   - "[ Huali Cao_†_](/author/huali-cao)"
   - "[ Ming Wang_†_](/author/ming-wang)"
   - "[ Jianwei Ding](/author/jianwei-ding)"
