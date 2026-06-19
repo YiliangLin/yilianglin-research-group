@@ -22,6 +22,8 @@ email: ""
 superuser: false
 user_groups:
   - "UG & Master’s Students"
+
+weight: 20
 highlight_name: false
 
 ---

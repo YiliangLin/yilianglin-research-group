@@ -10,6 +10,8 @@ authors:
 user_groups:
   - Visiting Scholars
 
+weight: 10
+
 interests:
   - Complex Fluid Rheology
   - Soft Matter

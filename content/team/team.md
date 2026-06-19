@@ -22,7 +22,6 @@ content:
     - "UG & Master’s Students"
     - Master's Students
     - Administration
-    - "UG & Master’s Students"
     - Visiting Scholars
     - Visiting Students
     - Alumni
