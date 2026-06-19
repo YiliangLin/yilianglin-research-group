@@ -1,5 +1,5 @@
 ---
-title: Our research paper on Monolithic-to-focal Evolving Biointerfaces in Tissue Regeneration and Bioelectronics is published in Nature Chemical Engineering!
+title: Our research paper on monolithic-to-focal evolving biointerfaces in tissue regeneration and bioelectronics is published in Nature Chemical Engineering!
 date: 2024-01-13
 ---
 
