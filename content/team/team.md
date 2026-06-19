@@ -19,10 +19,10 @@ content:
     - Principal Investigators
     - Research Fellows
     - PhD Students
-    - Graduate Students
+    - "UG & Master’s Students"
     - Master's Students
     - Administration
-    - Research Project Students
+    - "UG & Master’s Students"
     - Visiting Scholars
     - Visiting Students
     - Alumni
