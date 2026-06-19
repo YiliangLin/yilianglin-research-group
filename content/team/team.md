@@ -23,7 +23,6 @@ content:
     - Master's Students
     - Administration
     - Visiting Scholars
-    - Visiting Students
     - Alumni
 design:
   show_interests: false

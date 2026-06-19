@@ -17,6 +17,8 @@ email: ""
 superuser: false
 user_groups:
   - Visiting Scholars
+
+weight: 20
 highlight_name: false
 
 ---

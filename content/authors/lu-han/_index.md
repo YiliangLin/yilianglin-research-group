@@ -9,7 +9,6 @@ authors:
 
 user_groups:
   - Visiting Scholars
-
 weight: 20
 
 interests:
