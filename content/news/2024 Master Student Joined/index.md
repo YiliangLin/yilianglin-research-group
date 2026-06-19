@@ -1,6 +1,7 @@
 ---
 title: Xuren Zhou, Zhuoqin Fan, and Ziying Wei joined us as Master's Students. Welcome!
 date: 2024-08-01
+draft: true
 share: false
 authors:
   - "Xuren Zhou"

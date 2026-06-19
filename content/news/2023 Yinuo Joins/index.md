@@ -1,6 +1,7 @@
 ---
 title: Yinuo Wang joined as a master student. Welcome!
 date: 2023-09-11
+draft: true
 share: false
 authors:
   - "Yinuo Wang"

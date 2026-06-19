@@ -1,6 +1,7 @@
 ---
 title: Yuhan Xu joined as a visiting student. Welcome!
 date: 2023-09-11
+draft: true
 share: false
 authors:
   - "Yuhan Xu"

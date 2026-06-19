@@ -1,6 +1,7 @@
 ---
 title: Mr. Chongshihan Ran officially joined us as a PhD student. Welcome!
 date: 2024-08-01
+draft: true
 share: false
 authors:
   - "Chongshihan Ran"

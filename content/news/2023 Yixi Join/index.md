@@ -1,6 +1,7 @@
 ---
 title: Yixi Li joined as a master student. Welcome!
 date: 2023-08-15
+draft: true
 share: false
 authors:
   - "Yixi Li"
