@@ -8,7 +8,7 @@ authors:
   - xinpeng-fan
 
 user_groups:
-  - Visiting Scholar
+  - Visiting Scholars
 
 interests:
   - Complex Fluid Rheology
