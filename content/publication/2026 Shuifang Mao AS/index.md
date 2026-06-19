@@ -33,7 +33,7 @@ image:
 links:
   - name: Link
     url: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202521766
-url_pdf: mao-et-al-2026-living-hydrogels.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2026%20Shuifang%20Mao%20AS/mao-et-al-2026-living-hydrogels.pdf?raw=true
 
 date: 2026-04-02T00:00:00Z
 ---

@@ -38,7 +38,7 @@ image:
 links:
   - name: Link
     url: https://www.sciencedirect.com/science/article/pii/S2590006426005119
-url_pdf: lv-et-al-2026-engineered-skin-commensal-nanogels.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2026%20Wei%20Chen%20MTB/lv-et-al-2026-engineered-skin-commensal-nanogels.pdf?raw=true
 
 date: 2026-06-01T00:00:00Z
 ---

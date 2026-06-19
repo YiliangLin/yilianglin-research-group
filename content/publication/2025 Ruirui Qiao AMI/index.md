@@ -38,7 +38,7 @@ image:
 links:
   - name: Link
     url: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admi.202500178
-url_pdf: li-et-al-2025-smart-fluorosurfactant-assisted-microfluidics.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2025%20Ruirui%20Qiao%20AMI/li-et-al-2025-smart-fluorosurfactant-assisted-microfluidics.pdf?raw=true
 
 date: 2025-05-27T00:00:00Z
 ---

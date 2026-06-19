@@ -8,7 +8,7 @@ authors:
   - "[Yingyi Zhang]()"
   - "[Chenyao Wu]()"
   - "[Yuelan Liang]()"
-  - "[Jianwei Ding]()"
+  - "[Jianwei Ding](/author/jianwei-ding)"
   - "[Chengjie Yu]()"
   - "[Xingding Zhang]()"
   - "[**Yiliang Lin_*__**](/author/yiliang-lin)"
@@ -41,7 +41,7 @@ image:
 links:
   - name: Link
     url: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202501621
-url_pdf: deng-et-al-2025-bioengineering-living-biohybrid-therapeutics.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2025%20Xiang%20Gao%20AFM/deng-et-al-2025-bioengineering-living-biohybrid-therapeutics.pdf?raw=true
 
 date: 2025-08-18T00:00:00Z
 ---

@@ -52,7 +52,7 @@ image:
 links:
   - name: Link
     url: https://www.science.org/doi/full/10.1126/sciadv.adv9572
-url_pdf: li-et-al-2025-magnetic-field-enhanced-soft-robots.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2025%20Changsheng%20Wu%20SA/li-et-al-2025-magnetic-field-enhanced-soft-robots.pdf?raw=true
 
 date: 2025-09-12T00:00:00Z
 ---

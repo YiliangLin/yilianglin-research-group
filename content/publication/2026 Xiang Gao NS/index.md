@@ -42,7 +42,7 @@ image:
 links:
   - name: Link
     url: https://www.nature.com/articles/s41893-026-01787-x
-url_pdf: guo-et-al-2026-rewiring-energy-flow-biohybrids.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2026%20Xiang%20Gao%20NS/guo-et-al-2026-rewiring-energy-flow-biohybrids.pdf?raw=true
 
 date: 2026-03-10T00:00:00Z
 ---

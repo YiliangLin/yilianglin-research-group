@@ -38,7 +38,7 @@ image:
 links:
   - name: Link
     url: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202523767
-url_pdf: huang-et-al-2025-vat-photopolymerization-liquid-metal-hydrogels.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2025%20Ruirui%20Qiao%20AFM/huang-et-al-2025-vat-photopolymerization-liquid-metal-hydrogels.pdf?raw=true
 
 date: 2025-11-20T00:00:00Z
 ---

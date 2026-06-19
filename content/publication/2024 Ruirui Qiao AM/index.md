@@ -40,7 +40,7 @@ image:
 links:
   - name: Link
     url: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202409789
-url_pdf: huang-et-al-2024-4d-printing-hybrid-soft-robots.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2024%20Ruirui%20Qiao%20AM/huang-et-al-2024-4d-printing-hybrid-soft-robots.pdf?raw=true
 
 date: 2024-09-20T00:00:00Z
 ---

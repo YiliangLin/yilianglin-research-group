@@ -11,7 +11,7 @@ authors:
   - "[Xuemeng Yu]()"
   - "[Wei Xiang Chao]()"
   - "[Min Yu]()"
-  - "[Jianwei Ding]()"
+  - "[Jianwei Ding](/author/jianwei-ding)"
   - "[**Yiliang Lin**](/author/yiliang-lin)"
   - "[Wei Zhao]()"
   - "[Qiao Zhao]()"
@@ -46,7 +46,7 @@ image:
 links:
   - name: Link
     url: https://www.nature.com/articles/s43246-025-00763-w
-url_pdf: cheng-et-al-2025-closed-loop-enhancement-plant-photosynthesis.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2025%20Xiang%20Gao%20CM/cheng-et-al-2025-closed-loop-enhancement-plant-photosynthesis.pdf?raw=true
 
 date: 2025-03-02T00:00:00Z
 ---

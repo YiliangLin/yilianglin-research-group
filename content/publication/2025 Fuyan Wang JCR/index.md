@@ -37,7 +37,7 @@ image:
 links:
   - name: Link
     url: https://www.sciencedirect.com/science/article/abs/pii/S0168365925001440
-url_pdf: xu-et-al-2025-3d-msc-exosome-hydrogels-corneal-wound-healing.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2025%20Fuyan%20Wang%20JCR/xu-et-al-2025-3d-msc-exosome-hydrogels-corneal-wound-healing.pdf?raw=true
 
 date: 2025-04-01T00:00:00Z
 ---

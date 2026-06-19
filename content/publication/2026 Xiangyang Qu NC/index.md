@@ -4,8 +4,8 @@ subtitle: Nature Communications 2026
 publication_types:
   - "2"
 authors:
-  - "[Xiangyang Qu]()"
-  - "[Wenshang Guo]()"
+  - "[Xiangyang Qu](/author/xiangyang-qu)"
+  - "[Wenshang Guo](/author/wenshang-guo)"
   - "[Zixuan Zhu]()"
   - "[Shiyan Chen]()"
   - "[Shiyang Tang]()"
@@ -34,7 +34,7 @@ image:
 links:
   - name: Link
     url: https://www.nature.com/articles/s41467-026-71342-x
-url_pdf: qu-et-al-2026-strain-programmable-liquid-metal-fibers.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2026%20Xiangyang%20Qu%20NC/qu-et-al-2026-strain-programmable-liquid-metal-fibers.pdf?raw=true
 
 date: 2026-04-07T00:00:00Z
 ---

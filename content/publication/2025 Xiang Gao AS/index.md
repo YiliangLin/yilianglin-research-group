@@ -11,7 +11,7 @@ authors:
   - "[Meng Chen]()"
   - "[Xiaoling Xu]()"
   - "[Wei Chen]()"
-  - "[Jianwei Ding]()"
+  - "[Jianwei Ding](/author/jianwei-ding)"
   - "[Chengjie Yu]()"
   - "[Limei Liu]()"
   - "[Yang Xiang]()"
@@ -44,7 +44,7 @@ image:
 links:
   - name: Link
     url: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202408807
-url_pdf: zhang-et-al-2024-living-therapeutics-hydrogen-photothermal-cancer-treatment.pdf
+url_pdf: https://github.com/YiliangLin/yilianglin-research-group/blob/main/content/publication/2025%20Xiang%20Gao%20AS/zhang-et-al-2024-living-therapeutics-hydrogen-photothermal-cancer-treatment.pdf?raw=true
 
 date: 2024-11-04T00:00:00Z
 ---
