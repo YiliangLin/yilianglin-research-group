@@ -1,5 +1,5 @@
 ---
-title: Our research paper on Semiconductor-Microbe Living Hybrids is published in Science Advances!
+title: Our research paper on semiconductor-microbe living biohybrids is published in Science Advances!
 date: 2023-07-26
 ---
 
