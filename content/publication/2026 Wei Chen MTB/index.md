@@ -23,12 +23,11 @@ summary: >-
   Engineered skin commensal nanogels mitigate psoriasiform inflammation through coordinated regulation of cutaneous flora and host immunity.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Biointerfaces
   - Living Materials
-  - featured
 
 image:
   filename: featured

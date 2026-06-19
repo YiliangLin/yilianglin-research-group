@@ -29,12 +29,11 @@ summary: >-
   Photosynthetic bacteria provide living hydrogen-photothermal therapeutics for synergistic and targeted cancer treatment.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Living Materials
   - Biointerfaces
-  - featured
 
 image:
   filename: featured

@@ -23,12 +23,11 @@ summary: >-
   Thermo-responsive fluorosurfactants enable on-demand microfluidic generation and retrieval of cell-laden microgels without harmful demulsifiers.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Biointerfaces
   - Hydrogels
-  - featured
 
 image:
   filename: featured

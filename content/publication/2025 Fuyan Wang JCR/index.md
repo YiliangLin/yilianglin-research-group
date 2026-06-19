@@ -22,12 +22,11 @@ summary: >-
   This work develops 3D MSC exosome-functionalized GelMA hydrogels as a sustained release system for multidimensional corneal wound healing.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Biointerfaces
   - Hydrogels
-  - featured
 
 image:
   filename: featured

@@ -31,12 +31,11 @@ summary: >-
   Biomass-derived carbon dots enhance photosynthesis in biohybrids by converting light and feeding photoexcited electrons into photosynthetic electron transfer.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Living Materials
   - Sustainability
-  - featured
 
 image:
   filename: featured

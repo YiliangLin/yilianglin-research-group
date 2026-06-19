@@ -13,10 +13,10 @@ authors:
 publication: Nature Communications
 
 abstract: >-
-  Strain-induced signal interference is a critical challenge for reliable electronic textiles in deformable environments. This work introduces a strain-programmable fiber platform by embedding liquid metal particles within polyurethane elastomer via coaxial wet spinning. The resulting composite fibers can be programmed through pre-strain and composition to show negative, hybrid, or positive strain-resistance behaviors. The platform supports bidirectional strain sensors and strain-invariant circuits for robust energy harvesting, wireless communication, and thermal management.
+  Strain-induced signal interference is a critical challenge for reliable electronic textiles in deformable environments. This work introduces a strain-programmable fiber platform that embeds liquid metal particles within polyurethane elastomer through coaxial wet spinning, turning mechanical deformation from a source of noise into a tunable materials-design parameter. By programming pre-strain and liquid metal composition, the composite fibers can exhibit negative, hybrid, or positive strain-resistance behaviors, arising from strain-induced liquid metal particle reconfiguration and conductive-network evolution. This programmable response enables bidirectional strain sensors with polarity-based digital encoding and strain-invariant circuits for robust energy harvesting, wireless communication, and thermal management. As the first independent research work from the Lin Research Group, this study establishes a materials-level strategy for anti-interference electronic textiles and points toward more reliable multifunctional wearable systems.
 
 summary: >-
-  Liquid metal composite fibers with programmable strain-resistance behavior provide anti-interference electronic textiles for wearable systems.
+  As the first independent research work from the Lin Research Group, this study develops strain-programmable liquid metal composite fibers that turn deformation-induced interference into a tunable design feature. The fibers support programmable strain-resistance behaviors, bidirectional sensing, strain-invariant circuits, energy harvesting, wireless communication, and thermal management for robust electronic textiles.
 
 draft: false
 featured: true

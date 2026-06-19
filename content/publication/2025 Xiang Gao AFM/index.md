@@ -26,12 +26,11 @@ summary: >-
   Engineered bacterial living biohybrids integrate H2S production and CuS-mediated photothermal therapy for synergistic cancer treatment.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Living Materials
   - Biointerfaces
-  - featured
 
 image:
   filename: featured

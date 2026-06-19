@@ -24,13 +24,12 @@ summary: >-
   We developed a shape-transformable liquid metal nanoparticle-based material toolkit for one-step 3D printing of hybrid soft-rigid robots. The gallium-based nanoparticle inks enable tunable mechanics and shape-memory behavior, supporting high-precision grippers, bioinspired motors, and hand rehabilitation devices.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Liquid Metal
   - Soft Robotics
   - Living Materials
-  - featured
 
 image:
   filename: featured

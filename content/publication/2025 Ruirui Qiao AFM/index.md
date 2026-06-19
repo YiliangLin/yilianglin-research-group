@@ -22,13 +22,12 @@ summary: >-
   Polymer-coated liquid metal nanoparticles enable improved vat photopolymerization of mechanically robust and multifunctional hydrogels.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Liquid Metal
   - Hydrogels
   - Soft Matter
-  - featured
 
 image:
   filename: featured
