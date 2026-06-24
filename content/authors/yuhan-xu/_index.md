@@ -16,9 +16,7 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Visiting Scholars
-
-weight: 20
+  - Alumni
 highlight_name: false
 
 ---

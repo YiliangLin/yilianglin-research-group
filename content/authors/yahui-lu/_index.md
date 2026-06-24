@@ -4,7 +4,6 @@ role: Visiting Student
 avatar_filename: null
 bio: My research interests include 3D printing of soft materials
 
-
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,9 +24,7 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - Visiting Scholars
-
-weight: 20
+  - Alumni
 highlight_name: false
 
 ---
