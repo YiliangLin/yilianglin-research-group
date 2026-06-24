@@ -1,9 +1,8 @@
 ---
 title: Xiangyang Qu
-role: Visiting Student
+role: Research Fellow
 avatar_filename: null
 bio: My research interests include Liquid Metal Composite
-
 
 social:
   - icon: envelope
@@ -16,19 +15,19 @@ organizations:
 
 education:
   courses:
-    - course: Ph.D. in Materials Science
+    - course: PhD in Materials Science
       institution: Donghua University
-      year: 2025
-    - course: B.S. in Polymer Science and Engineering
+      year: 2026
+    - course: BS in Polymer Science and Engineering
       institution: Yantai University
       year: 2020
-email: ""      
+email: ""
 superuser: false
 user_groups:
-  - Visiting Scholars
+  - Research Fellows
 
-weight: 20
+weight: 10
 highlight_name: false
-
 ---
-Xiangyang Qu joined Dr. Lin’s lab as a visiting student in January 2024. Before that, he received his Bachelor’s degree in polymer science and engineering from Yantai University (YTU) in 2020. He is a Ph.D. candidate in materials science at the State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM), Donghua University (DHU). His research interests focus on flexible conductive fibers and smart fiber devices. He has received some accolades, including the school comprehensive scholarship, school first-class scholarship, and school-level outstanding cadre.
+
+Xiangyang Qu will officially join Dr. Lin's lab as a Research Fellow in July 2026. He received his PhD in Materials Science from the State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM), Donghua University (DHU), in June 2026. Before that, he received his BS in Polymer Science and Engineering from Yantai University (YTU) in 2020. His research interests focus on flexible conductive fibers, liquid metal composites, and smart fiber devices. He has received several accolades, including the school comprehensive scholarship, school first-class scholarship, and school-level outstanding cadre.
