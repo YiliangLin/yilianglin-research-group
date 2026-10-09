@@ -38,3 +38,61 @@
     padding: 32px 0;
   }
 }
+
+.research-index {
+  padding-top: 38px;
+  padding-bottom: 48px;
+  letter-spacing: 0;
+}
+
+.research-index [hidden] { display: none !important; }
+.research-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; }
+.research-heading h1 { margin: 0; font-size: 32px; line-height: 1.25; }
+.research-count { color: #66717a; font-size: 14px; white-space: nowrap; }
+.research-toolbar { display: flex; justify-content: space-between; align-items: center; gap: 18px; padding: 22px 0 24px; }
+.research-search { position: relative; width: 320px; max-width: 100%; }
+.research-search i { position: absolute; left: 12px; top: 13px; color: #78838b; font-size: 14px; }
+.research-toolbar input, .research-toolbar select { height: 40px; border: 1px solid #cdd6dc; border-radius: 4px; background: #fff; color: #252b31; font: inherit; font-size: 14px; }
+.research-toolbar input { width: 100%; padding: 0 12px 0 36px; }
+.research-toolbar select { min-width: 138px; padding: 0 30px 0 12px; }
+.research-year { display: grid; grid-template-columns: 72px minmax(0, 1fr); column-gap: 28px; border-top: 1px solid #e0e5e9; padding-top: 14px; }
+.research-year h2 { margin: 0; color: #386d69; font-size: 22px; line-height: 1.4; }
+.research-paper { display: grid; grid-template-columns: minmax(0, 1fr) 154px; gap: 22px; padding-bottom: 12px; margin-bottom: 10px; border-bottom: 1px solid #eef1f3; }
+.research-paper:last-child { border-bottom: 0; margin-bottom: 0; padding-bottom: 16px; }
+.research-paper h3 { margin: 0 0 6px; font-size: 17px; line-height: 1.5; font-weight: 600; }
+.research-paper h3 a { color: inherit; }
+.research-authors { margin-bottom: 5px; color: #58636c; font-size: 14px; line-height: 1.65; }
+.research-authors a { color: inherit; }
+.research-journal { margin: 0; font-size: 14px; line-height: 1.6; }
+.research-journal span { margin-left: 8px; color: #66717a; }
+.research-paper-links { display: flex; align-items: flex-start; justify-content: flex-end; gap: 16px; padding-top: 3px; font-size: 14px; line-height: 1.5; white-space: nowrap; }
+.research-paper-links a:last-child { font-weight: 600; }
+.research-news { display: grid; grid-template-columns: 110px minmax(0, 1fr); column-gap: 18px; align-items: baseline; padding-bottom: 10px; }
+.research-news:last-child { padding-bottom: 16px; }
+.research-news time { color: #59666e; font-size: 14px; font-weight: 600; white-space: nowrap; }
+.research-news a { color: inherit; font-size: 16px; line-height: 1.55; }
+.research-news a:hover { color: #1565c0; }
+.research-empty { padding: 24px 0; border-top: 1px solid #e0e5e9; color: #66717a; font-size: 16px; }
+.dark .research-index .research-count,
+.dark .research-index .research-authors,
+.dark .research-index .research-journal span,
+.dark .research-index .research-news time { color: #bdc6cd; }
+.dark .research-index .research-year h2 { color: #8ccbc4; }
+
+@media (max-width: 800px) {
+  .research-index { padding-top: 30px; }
+  .research-year { grid-template-columns: 1fr; gap: 10px; }
+  .research-paper { grid-template-columns: 1fr; gap: 8px; }
+  .research-paper-links { justify-content: flex-start; padding-top: 0; }
+  .research-news { grid-template-columns: 104px minmax(0, 1fr); gap: 12px; }
+}
+
+@media (max-width: 480px) {
+  .research-heading h1 { font-size: 28px; }
+  .research-toolbar { gap: 10px; padding: 20px 0 22px; }
+  .research-search { min-width: 0; width: 100%; }
+  .research-toolbar select { min-width: 130px; width: 130px; padding: 0 24px 0 10px; }
+  .research-paper h3 { font-size: 16px; }
+  .research-news { grid-template-columns: 1fr; gap: 3px; padding-bottom: 12px; }
+  .research-news a { font-size: 15px; }
+}
