@@ -22,7 +22,6 @@ featured: false
 
 tags:
   - Liquid Metal
-  - featured
 
 image:
   filename: featured

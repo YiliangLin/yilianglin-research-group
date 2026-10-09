@@ -37,12 +37,11 @@ summary: >-
   This work develops magnetic field-enhanced flexible batteries and vertically integrated actuator-battery-sensor systems for untethered soft robots with embodied intelligence.
 
 draft: false
-featured: true
+featured: false
 
 tags:
   - Soft Robotics
   - Biointerfaces
-  - featured
 
 image:
   filename: featured
