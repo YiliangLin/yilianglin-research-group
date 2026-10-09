@@ -1,5 +1,5 @@
 ---
-title: Our first independent research work was published in Nature Communications
+title: "Xiangyang Qu's work on strain-programmable liquid metal fibers is published in Nature Communications."
 date: 2026-04-07
 draft: false
 share: false

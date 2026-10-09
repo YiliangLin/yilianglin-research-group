@@ -1,0 +1,7 @@
+{{ with resources.Get (printf "media/%s" .page.Params.photo) }}
+  <figure class="group-photo-figure">
+    <img class="group-photo-image" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="Lin Research Group at NUS Engineering" loading="lazy">
+  </figure>
+{{ else }}
+  {{ errorf "Missing homepage group photo" }}
+{{ end }}

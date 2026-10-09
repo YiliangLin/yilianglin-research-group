@@ -1,5 +1,5 @@
 ---
-title: 'Our first biohybrid research paper is published in Science Advances!'
+title: "Ying Yang's work on dual biohybrids for light-enhanced chemical production is published in Science Advances."
 date: 2026-10-02
 draft: false
 share: false

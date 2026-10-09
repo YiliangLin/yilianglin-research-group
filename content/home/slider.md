@@ -9,39 +9,38 @@ design:
   slide_height: '600px'
   is_fullscreen: false
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 10000
 
 content:
   slides:
-    - title: 
-      content: 
+    - title:
+      content:
       align: center
       background:
         position: center
         color: '#555'
         brightness: 1.0
-        media: soft-hard composite.jpg        
-    - title: 
-      content: 
+        media: soft-hard composite.jpg
+    - title:
+      content:
       align: center
       background:
         position: center
         color: '#555'
         brightness: 1.0
-        media: functional soft materials.jpg        
-    - title: 
-      content: 
+        media: functional soft materials.jpg
+    - title:
+      content:
       align: center
       background:
         position: center
         color: '#555'
         brightness: 0.9
         media: living materials.jpg
-        
-    - title: 
-      content: 
+    - title:
+      content:
       align: center
       background:
         position: center

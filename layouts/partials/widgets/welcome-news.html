@@ -1,0 +1,29 @@
+{{ $page := .page }}
+<div class="home-overview">
+  <div class="home-welcome" aria-labelledby="welcome-title">
+    <h1 id="welcome-title">{{ $page.Title }}</h1>
+    <div class="home-welcome-copy">{{ $page.Content }}</div>
+    {{ with resources.Get (printf "media/%s" $page.Params.hero_media) }}
+      <img class="home-welcome-image" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="Lin Research Group research areas: biointerfaces, living materials, and sustainability" loading="lazy">
+    {{ end }}
+  </div>
+  <aside class="home-news" id="news" aria-labelledby="home-news-title">
+    <h2 id="home-news-title">Latest News</h2>
+    {{ range $page.Params.news }}
+      {{ $news := site.GetPage .page }}
+      {{ $paper := site.GetPage .publication }}
+      {{ if not $news }}{{ errorf "Missing homepage news: %s" .page }}{{ end }}
+      {{ if not $paper }}{{ errorf "Missing homepage publication: %s" .publication }}{{ end }}
+      {{ $paper_link := "" }}
+      {{ range $paper.Params.links }}
+        {{ if and (eq (lower .name) "link") .url }}{{ $paper_link = .url }}{{ end }}
+      {{ end }}
+      {{ if and (not $paper_link) $paper.Params.doi }}{{ $paper_link = printf "https://doi.org/%s" $paper.Params.doi }}{{ end }}
+      <article class="overview-news-item">
+        <time datetime="{{ $news.Date.Format "2006-01-02" }}">{{ $news.Date.Format "02 Jan 2006" }}</time>
+        <p><a class="overview-news-headline" href="{{ $news.RelPermalink }}">{{ .headline | default $news.Title }}</a>{{ with $paper_link }} <a class="overview-paper-link" href="{{ . }}" target="_blank" rel="noopener" aria-label="Read the paper: {{ $paper.Title }}">Link</a>{{ end }}</p>
+      </article>
+    {{ end }}
+    <a class="overview-all-news" href="{{ "news/" | relLangURL }}">All News <i class="fas fa-angle-right" aria-hidden="true"></i></a>
+  </aside>
+</div>
