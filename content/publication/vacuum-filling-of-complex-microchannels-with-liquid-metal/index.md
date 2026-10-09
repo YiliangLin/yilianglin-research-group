@@ -31,7 +31,6 @@ image:
 tags:
   - Liquid Metal
   - Soft Electronics
-  - featured
 
 links:
   - name: Link
