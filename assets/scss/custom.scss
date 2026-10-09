@@ -7,3 +7,34 @@
 {
   text-align:justify;
 }
+
+#news.home-section {
+  padding: 48px 0;
+}
+
+#news .view-list-item {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 10px;
+  line-height: 1.45;
+}
+
+#news .pub-icon {
+  flex: 0 0 auto;
+  padding-right: 0;
+}
+
+#news .view-list-item > a {
+  min-width: 0;
+}
+
+#news .see-all {
+  margin-top: 20px;
+}
+
+@media (max-width: 767px) {
+  #news.home-section {
+    padding: 32px 0;
+  }
+}
