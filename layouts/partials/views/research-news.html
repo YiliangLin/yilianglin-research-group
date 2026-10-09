@@ -1,0 +1,5 @@
+{{ $item := .item }}
+<article class="research-news">
+  <time datetime="{{ $item.Date.Format "2006-01-02" }}">{{ $item.Date.Format "02 Jan 2006" }}</time>
+  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+</article>

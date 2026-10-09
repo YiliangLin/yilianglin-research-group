@@ -18,6 +18,8 @@ content:
   offset: 0
   order: desc
   page_type: news
+
 design:
-  view: 1
+  columns: '1'
+  view: research-news
 ---
