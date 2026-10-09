@@ -16,7 +16,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  caption: 'Fig. 1 from Yang et al., Science Advances (2026), DOI: 10.1126/sciadv.aef4504. CC BY-NC 4.0.'
+  caption: 'Fig. 1, panels A and B, from Yang et al., Science Advances (2026), DOI: 10.1126/sciadv.aef4504. CC BY-NC 4.0.'
 ---
 
 Our group's **first biohybrid research paper**, "An anoxygenic photosynthesis-inspired dual biohybrid for light-enhanced chemical production," has been published in **Science Advances**! Congratulations to Ying Yang, Zipeng Zhu, and all our collaborators! We extend our sincere thanks to **Prof. Xiang Gao** and **Prof. Yuanyuan Wang** for their collaboration and support throughout this work.

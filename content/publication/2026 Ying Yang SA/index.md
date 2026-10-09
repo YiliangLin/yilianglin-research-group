@@ -35,7 +35,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  caption: 'Dual biohybrid design from Fig. 1 of Yang et al., Science Advances (2026), DOI: 10.1126/sciadv.aef4504. CC BY-NC 4.0.'
+  caption: 'Dual biohybrid design from Fig. 1, panels A and B, of Yang et al., Science Advances (2026), DOI: 10.1126/sciadv.aef4504. CC BY-NC 4.0.'
 
 links:
   - name: Link
