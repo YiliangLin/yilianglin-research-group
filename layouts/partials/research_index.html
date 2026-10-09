@@ -21,30 +21,15 @@
     </select>
   </div>
 
+  {{ $number := len $pages }}
   {{ range $pages.GroupByDate "2006" }}
   <section class="research-year" data-year="{{ .Key }}" aria-labelledby="research-year-{{ .Key }}">
     <h2 id="research-year-{{ .Key }}">{{ .Key }}</h2>
     <div>
       {{ range .Pages }}
         {{ if $is_publication }}
-          {{ $article_link := "" }}
-          {{ range .Params.links }}
-            {{ if and (eq (lower .name) "link") .url }}{{ $article_link = .url }}{{ end }}
-          {{ end }}
-          {{ if and (not $article_link) .Params.doi }}{{ $article_link = printf "https://doi.org/%s" .Params.doi }}{{ end }}
-          {{ $title_link := $article_link | default .RelPermalink }}
-          <article class="research-paper" data-research-entry>
-            <div>
-              <h3><a href="{{ $title_link }}"{{ if $article_link }} target="_blank" rel="noopener"{{ end }}>{{ .Title }}</a></h3>
-              <div class="research-authors">{{ partial "page_metadata_authors" . }}</div>
-              <p class="research-journal">{{ with .Params.publication }}<i>{{ . | markdownify }}</i>{{ end }} <span>{{ .Date.Format "2006" }}</span></p>
-            </div>
-            <div class="research-paper-links">
-              {{ with .Params.url_pdf }}<a href="{{ . }}" target="_blank" rel="noopener">PDF</a>{{ end }}
-              {{ with $article_link }}<a href="{{ . }}" target="_blank" rel="noopener">Link</a>{{ end }}
-              <a href="{{ .RelPermalink }}" title="Detailed information">Details</a>
-            </div>
-          </article>
+          {{ partial "views/research-paper" (dict "item" . "number" $number "hide_year" true) }}
+          {{ $number = sub $number 1 }}
         {{ else }}
           <article class="research-news" data-research-entry>
             <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 Jan 2006" }}</time>

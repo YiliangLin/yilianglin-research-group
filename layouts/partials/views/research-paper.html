@@ -1,0 +1,22 @@
+{{ $item := .item }}
+{{ $article_link := "" }}
+{{ range $item.Params.links }}
+  {{ if and (eq (lower .name) "link") .url }}{{ $article_link = .url }}{{ end }}
+{{ end }}
+{{ if and (not $article_link) $item.Params.doi }}{{ $article_link = printf "https://doi.org/%s" $item.Params.doi }}{{ end }}
+{{ $title_link := $article_link | default $item.RelPermalink }}
+<article class="research-paper" data-research-entry>
+  <div{{ with .number }} class="research-paper-numbered"{{ end }}>
+    {{ with .number }}<span class="research-paper-number" aria-label="Publication {{ . }}">{{ . }}.</span>{{ end }}
+    <div class="research-paper-citation">
+    <h3><a href="{{ $title_link }}"{{ if $article_link }} target="_blank" rel="noopener"{{ end }}>{{ $item.Title }}</a></h3>
+    <div class="research-authors">{{ partial "page_metadata_authors" $item }}</div>
+    <p class="research-journal">{{ with $item.Params.publication }}<i>{{ . | markdownify }}</i>{{ end }}{{ if not .hide_year }} <span>{{ $item.Date.Format "2006" }}</span>{{ end }}</p>
+    </div>
+  </div>
+  <div class="research-paper-links">
+    {{ with $item.Params.url_pdf }}<a href="{{ . }}" target="_blank" rel="noopener">PDF</a>{{ end }}
+    {{ with $article_link }}<a href="{{ . }}" target="_blank" rel="noopener">Link</a>{{ end }}
+    <a href="{{ $item.RelPermalink }}" title="Detailed information">Details</a>
+  </div>
+</article>
