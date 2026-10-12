@@ -1,6 +1,6 @@
 ---
 title: Zhenghan Liu
-role: Research Fellow
+role: PhD Student
 avatar_filename: null
 bio: My research interests include nanocluster synthesis and applicaiton in biomolecules and living biosystem.
 
@@ -22,7 +22,7 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - PhD Students
+  - Alumni
 highlight_name: false
 
 ---
