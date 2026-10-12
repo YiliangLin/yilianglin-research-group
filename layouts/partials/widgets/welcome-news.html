@@ -6,9 +6,9 @@
     {{ $research := site.GetPage "/research" }}
     <div class="home-research-figure" aria-label="Three research directions in soft matter and biointerface engineering">
       {{ range slice
-        (dict "section" "adaptive" "title" "Adaptive Bioelectronics" "file" "home-devices.png" "alt" "Wearable NFC electronic textile for wireless power and body-signal readout")
-        (dict "section" "repair" "title" "Soft Materials" "file" "home-materials.png" "alt" "Soft material-microbe interfaces combining starch, minerals and liquid metal")
-        (dict "section" "biohybrids" "title" "Microbial Biohybrids" "file" "home-bacteria.png" "alt" "Bacteria as living soft-matter components of microbial biohybrids")
+        (dict "section" "adaptive" "title" "Adaptive Bioelectronics for Health Monitoring" "file" "home-devices.png" "alt" "Wearable NFC electronic textile for wireless power and body-signal readout")
+        (dict "section" "repair" "title" "Soft Matter for Tissue Repair" "file" "home-materials.png" "alt" "Soft material-microbe interfaces combining starch, minerals and liquid metal")
+        (dict "section" "biohybrids" "title" "Microbial Biohybrids for Sustainable Bioproduction" "file" "home-bacteria.png" "alt" "Bacteria as living soft-matter components of microbial biohybrids")
       }}
         {{ $image := resources.Get (printf "media/%s" .file) }}
         {{ if not $image }}{{ errorf "Missing welcome research image: %s" .file }}{{ end }}

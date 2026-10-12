@@ -11,7 +11,7 @@ summary: >-
   Jianwei Ding's work with our collaborators combines engineered bacteria and self-mineralized copper sulfide nanoparticles for H2S gaseous-photothermal cancer therapy.
 ---
 
-Jianwei Ding's work with our collaborators, "Bioengineering Living Biohybrid Therapeutics for Synergistic H2S Gaseous-Photothermal Cancer Eradication," has been published in ***Advanced Healthcare Materials***. Congratulations to Jianwei and all our collaborators!
+Jianwei Ding's work with our collaborators, "Bioengineering Living Biohybrid Therapeutics for Synergistic H<sub>2</sub>S Gaseous-Photothermal Cancer Eradication," has been published in ***Advanced Healthcare Materials***. Congratulations to Jianwei and all our collaborators!
 
 <!--more-->
 

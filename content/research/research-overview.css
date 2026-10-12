@@ -37,6 +37,9 @@
 .research-overview .figure-title { font-size: 22px; line-height: 1.25; margin: 0 0 7px; font-weight: 700; }
 .research-overview .panel-note { display: inline; color: var(--research-muted); }
 .research-overview .panel-note + .panel-note { margin-left: 6px; }
+.research-overview #biohybrid-examples .panel-note { display: grid; grid-template-columns: 24px minmax(0, 1fr); }
+.research-overview #biohybrid-examples .panel-note + .panel-note { margin-left: 0; margin-top: 2px; }
+.research-overview #biohybrid-examples .note-text { min-width: 0; }
 .research-overview .selected-publications { list-style: none; margin: 0; padding: 0; font-size: 15px; line-height: 1.8; }
 .research-overview .selected-publications .paper { display: inline; padding: 0; margin: 0 12px 0 0; border: 0; }
 .research-overview .selected-publications .paper a { display: inline; font-size: inherit; line-height: inherit; font-weight: 400; }
