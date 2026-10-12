@@ -143,13 +143,13 @@
   .pub .article-container > h1 { font-size: 30px; line-height: 1.3; }
 }
 
-.opening-heading { margin-bottom: 22px; }
-.opening-content { font-size: 17px; line-height: 1.65; }
-.opening-content p { margin-bottom: 18px; }
-.opening-content ul { margin-bottom: 20px; padding-left: 24px; }
-.opening-content li { margin-bottom: 7px; }
+.opening-heading { margin-bottom: 18px; }
+.opening-content { font-size: 17px; line-height: 1.5; }
+.opening-content p { margin-bottom: 10px; }
+.opening-content ul { margin-bottom: 12px; padding-left: 24px; }
+.opening-content li { margin-bottom: 3px; }
 .opening-content > h2 {
-  margin: 38px 0 18px;
+  margin: 38px 0 14px;
   padding-top: 22px;
   border-top: 1px solid #e0e5e9;
   font-size: 24px;
@@ -159,7 +159,7 @@
 .dark .opening-content > h2 { border-top-color: #48515a; }
 
 @media (max-width: 767px) {
-  .opening-heading { margin-bottom: 18px; }
+  .opening-heading { margin-bottom: 16px; }
   .opening-content { font-size: 16px; }
   .opening-content > h2 { margin-top: 30px; padding-top: 18px; font-size: 22px; }
 }

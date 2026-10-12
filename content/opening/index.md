@@ -35,7 +35,7 @@ Please also indicate your preferred research direction and starting period.
 
 ## Research Fellow Opportunities
 
-We are recruiting **Research Fellows (postdoctoral researchers)** who want to develop ambitious research ideas in adaptive bioelectronics, soft materials for tissue repair, and microbial biohybrids.
+We are recruiting **Research Fellows** who want to develop ambitious research ideas in adaptive bioelectronics, soft materials for tissue repair, and microbial biohybrids.
 
 We welcome candidates who can bring fresh perspectives and complementary expertise to the group. Alongside contributing to ongoing projects, we encourage you to propose questions and approaches that could open new directions within our research.
 
