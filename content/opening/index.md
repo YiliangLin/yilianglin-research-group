@@ -21,7 +21,16 @@ We welcome prospective PhD students who are eager to investigate fundamental que
 
 You may come from chemical engineering, materials science, chemistry, biomedical engineering, biotechnology, electrical engineering, physics, or another related field. What matters to us is your curiosity, research potential, and readiness to learn beyond your existing expertise. Tell us what you want to investigate and how your experience could contribute to our research.
 
-PhD funding may be available through various scholarship schemes, including the [President’s Graduate Fellowship (PGF)](https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship), the [NUS Research Scholarship](https://nusgs.nus.edu.sg/scholarships/nus-research-scholarship), and other scholarships or institute-supported opportunities at NUS. Availability will depend on the applicant’s eligibility, the research project, and the relevant admissions cycle.
+Prospective PhD students may explore the following scholarships and fellowships:
+
+- [President’s Graduate Fellowship (PGF)](https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship)
+- [NUS Research Scholarship](https://nusgs.nus.edu.sg/scholarships/nus-research-scholarship)
+- [NUS ASEAN Research Scholarship](https://nusgs.nus.edu.sg/scholarships/nus-asean-research-scholarship)
+- [NUS Industry-Relevant PhD Scholarship (NUS-IRP)](https://nusgs.nus.edu.sg/scholarships/nus-industry-relevant-phd-scholarship-nus-irp)
+- [Singapore International Graduate Award (SINGA)](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa)
+- [A\*STAR Graduate Scholarship (AGS)](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore)
+
+Eligibility, availability, and application procedures vary by scheme. Funding will depend on the applicant’s eligibility, the research project and supervision arrangements, and the relevant admissions cycle. Please refer to the official links for current requirements.
 
 To express your interest, email **Prof. Yiliang Lin at [y.lin@nus.edu.sg](mailto:y.lin@nus.edu.sg)** with the subject **“PhD Application – [Your Name]”** and include:
 
