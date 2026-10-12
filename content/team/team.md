@@ -18,9 +18,10 @@ content:
   user_groups:
     - Principal Investigators
     - Research Fellows
+    - Research Assistants
     - PhD Students
-    - "UG & Master’s Students"
-    - Master's Students
+    # - "UG & Master’s Students"
+    # - Master's Students
     - Administration
     - Visiting Scholars
     - Alumni

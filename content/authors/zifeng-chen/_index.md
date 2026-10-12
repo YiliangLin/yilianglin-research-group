@@ -1,6 +1,6 @@
 ---
 title: Zifeng Chen
-role: Final Year Project Student
+role: Research Assistant
 avatar_filename: null
 bio: My research interests include biohybrids systems
 
@@ -21,10 +21,12 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - "UG & Master’s Students"
+  - Research Assistants
 
 weight: 30
 highlight_name: false
 
 ---
+Zifeng is now a Research Assistant in Dr. Lin's group.
+
 Zifeng joined Dr. Lin’s lab as an undergraduate student in August 2024, through NUS’s “3+1+1” program. Previously, Zifeng pursed a degree in applied chemistry at the Zhejiang University of Technology (ZJUT). Zifeng’s research interests are in biomineralized biofilms, biohybrid systems and hydrogen production. Zifeng has been awarded with numerous scholarships, including a Provincial Government Scholarship and Academic Scholarships. 

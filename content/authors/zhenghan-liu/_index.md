@@ -1,6 +1,6 @@
 ---
 title: Zhenghan Liu
-role: PhD Student
+role: Research Fellow
 avatar_filename: null
 bio: My research interests include nanocluster synthesis and applicaiton in biomolecules and living biosystem.
 
@@ -11,7 +11,7 @@ social:
     link: mailto:e0751536@u.nus.edu
 
 organizations:
-  - name: National University of Singapore
+  - name: A*STAR
     url: ""
 
 education:
@@ -22,8 +22,10 @@ education:
 email: ""      
 superuser: false
 user_groups:
-  - PhD Students
+  - Alumni
 highlight_name: false
 
 ---
+Zhenghan has graduated and is now a Research Fellow at A*STAR.
+
 Zhenghan joined Dr. Lin’s lab as a PhD student in March 2024 and co-supervised by Prof. Xie Jianping at NUS. He graduated from Xiamen University in 2021 with bachelor’s degree of chemical engineering and advertising. His research interests include noble metal nanoclusters’ synthesis, tunable fluorescence, and applications with biomolecule and living biosystem.
