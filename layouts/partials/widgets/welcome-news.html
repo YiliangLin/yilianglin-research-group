@@ -3,6 +3,28 @@
   <div class="home-welcome" aria-labelledby="welcome-title">
     <h1 id="welcome-title">{{ $page.Title }}</h1>
     <div class="home-welcome-copy">{{ $page.Content }}</div>
+    {{ $research := site.GetPage "/research" }}
+    <div class="home-research-figure" aria-label="Three research directions in soft matter and biointerface engineering">
+      {{ range slice
+        (dict "section" "adaptive" "title" "Adaptive Bioelectronics" "file" "device-textiles.png" "resize" true "alt" "Liquid metal electronic textiles for sensing, circuitry and thermal management")
+        (dict "section" "repair" "title" "Tissue Repair" "file" "home-tissue-interface.svg" "resize" false "alt" "Granular hydrogel biointerface at a wound or recording site")
+        (dict "section" "biohybrids" "title" "Microbial Biohybrids" "file" "biohybrids-dual-clean.png" "resize" true "alt" "Dual microbial biohybrids for light-enhanced chemical production")
+      }}
+        {{ $image := $research.Resources.GetMatch (printf "figures/%s" .file) }}
+        {{ if not $image }}{{ errorf "Missing welcome research image: %s" .file }}{{ end }}
+        {{ $width := 480 }}{{ $height := 260 }}
+        {{ if .resize }}
+          {{ $image = $image.Resize "500x webp q85" }}
+          {{ $width = $image.Width }}{{ $height = $image.Height }}
+        {{ end }}
+        <figure class="home-research-panel">
+          <a href="{{ $research.RelPermalink }}#{{ .section }}">
+            <div class="home-research-visual"><img src="{{ $image.RelPermalink }}" width="{{ $width }}" height="{{ $height }}" alt="{{ .alt }}" loading="lazy"></div>
+            <figcaption>{{ .title }}</figcaption>
+          </a>
+        </figure>
+      {{ end }}
+    </div>
   </div>
   <aside class="home-news" id="news" aria-labelledby="home-news-title">
     <h2 id="home-news-title">Latest News</h2>
