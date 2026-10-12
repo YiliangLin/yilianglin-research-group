@@ -18,8 +18,8 @@ content:
   user_groups:
     - Principal Investigators
     - Research Fellows
-    - Research Assistants
     - PhD Students
+    - Research Assistants
     # - "UG & Master’s Students"
     # - Master's Students
     - Administration
