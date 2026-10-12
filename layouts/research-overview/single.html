@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ with .Resources.GetMatch "research-overview.css" }}
+<link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}
+<main class="container research-overview">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+</main>
+{{ end }}
