@@ -22,7 +22,7 @@ content:
         position: center
         color: '#555'
         brightness: 1.0
-        media: soft-hard composite.jpg
+        media: soft-matter-bio-interface.svg
     - title:
       content:
       align: center

@@ -33,7 +33,7 @@
 .research-overview .material-pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin-top: 10px; }
 .research-overview .material-pair .panel-visual { display: flex; aspect-ratio: 1; align-items: flex-start; justify-content: center; }
 .research-overview .material-pair img { width: auto; height: auto; max-width: 100%; max-height: 100%; }
-.research-overview .group-caption { margin: 12px 0 0; font-size: 14px; line-height: 1.55; text-align: left; }
+.research-overview .group-caption { margin: 12px 0 0; font-size: 14px; line-height: 1.55; text-align: justify; text-align-last: left; }
 .research-overview .figure-title { font-size: 22px; line-height: 1.25; margin: 0 0 7px; font-weight: 700; }
 .research-overview .panel-note { display: inline; color: var(--research-muted); }
 .research-overview .panel-note + .panel-note { margin-left: 6px; }
@@ -48,6 +48,14 @@
 .research-overview #adaptive-devices .device-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .research-overview #adaptive-devices .device-panel[data-label="d"] { align-self: stretch; }
 .research-overview #adaptive-devices .device-panel[data-label="d"] .panel-content { align-self: center; }
+.research-overview #repair-materials .device-panel { grid-column: 1 / -1; }
+.research-overview #repair-materials .device-panel[data-label="b"] .panel-content { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 12px; align-items: start; }
+.research-overview #repair-materials .material-pair { margin-top: 0; }
+.research-overview .figure-title { text-align: left; }
+.research-overview .research-more { margin: 28px 0 8px; text-align: center; }
+.research-overview .research-more a { display: inline-flex; align-items: center; gap: 12px; max-width: 100%; padding: 10px 18px; border: 1px solid currentColor; border-radius: 4px; font-size: 16px; line-height: 1.4; }
+.research-overview .research-more a:hover { text-decoration: none; background: #f2f7fa; }
+.dark .research-overview .research-more a:hover { background: #26343c; }
 .dark .research-overview { --research-muted: #bdc6ca; --research-border: #536167; }
 @media (max-width: 900px) {
   .research-overview .research-direction-layout { grid-template-columns: 1fr; gap: 18px; }

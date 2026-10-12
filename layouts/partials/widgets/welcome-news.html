@@ -3,9 +3,6 @@
   <div class="home-welcome" aria-labelledby="welcome-title">
     <h1 id="welcome-title">{{ $page.Title }}</h1>
     <div class="home-welcome-copy">{{ $page.Content }}</div>
-    {{ with resources.Get (printf "media/%s" $page.Params.hero_media) }}
-      <img class="home-welcome-image" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="Lin Research Group research areas: biointerfaces, living materials, and sustainability" loading="lazy">
-    {{ end }}
   </div>
   <aside class="home-news" id="news" aria-labelledby="home-news-title">
     <h2 id="home-news-title">Latest News</h2>

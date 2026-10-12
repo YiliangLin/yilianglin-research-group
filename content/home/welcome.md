@@ -5,7 +5,6 @@ headless: true
 weight: 10
 
 title: Welcome to Lin Group
-hero_media: linwelcome.jpg
 
 news:
   - page: /news/2026 First Biohybrid Science Advances
@@ -28,4 +27,6 @@ design:
   css_class: null
 ---
 
-**Lin Research Group @ NUS** aims to design and develop **multiscale living materials** for **bio-interfaces** to meet emerging needs in post-pandemics time, from the **human-machine interface** in telemedicine, **biomedical therapy** to **sustainability**.
+**Lin Research Group @ NUS** studies **soft matter and biointerface engineering**. We investigate how soft materials interact with living systems and use these interactions to guide material and device design. Our work spans liquid metal composites, hydrogels, and living soft matter, including bacteria and tissues.
+
+Our research develops along three connected directions: **adaptive bioelectronics** for health monitoring, **soft materials for tissue repair**, and **microbial biohybrids** for sustainable chemical production. By connecting material structure and function with biological interactions, we seek to improve how engineered systems operate alongside and communicate with living systems.
