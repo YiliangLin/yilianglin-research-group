@@ -130,12 +130,12 @@ body p,
 .home-research-figure { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-top: 18px; }
 .home-research-panel { min-width: 0; margin: 0; }
 .home-research-panel a { display: block; color: inherit; }
-.home-research-visual { display: flex; align-items: center; justify-content: center; width: 100%; aspect-ratio: 1; max-height: 170px; }
+.home-research-visual { display: flex; align-items: center; justify-content: center; width: 100%; height: 300px; }
 .home-research-visual img { display: block; width: auto; height: auto; max-width: 100%; max-height: 100%; margin: 0; }
 .home-research-panel figcaption { min-height: 2.8em; margin-top: 8px; font-size: 13px; font-weight: 600; line-height: 1.4; text-align: center; }
 .home-news { min-width: 0; }
-.overview-news-item { padding-bottom: 14px; }
-.overview-news-item time { display: block; margin-bottom: 3px; color: #59666e; font-size: 13px; line-height: 1.4; font-weight: 600; }
+.overview-news-item { display: grid; grid-template-columns: 88px minmax(0, 1fr); gap: 10px; align-items: baseline; padding-bottom: 8px; }
+.overview-news-item time { margin: 0; color: #59666e; font-size: 12px; line-height: 1.5; font-weight: 600; white-space: nowrap; }
 .home-overview .overview-news-item p { margin: 0; font-size: 15px; line-height: 1.5; }
 .overview-news-headline { color: inherit; }
 .overview-paper-link { white-space: nowrap; margin-left: 5px; }
@@ -157,10 +157,13 @@ body p,
   #welcome.home-section { padding: 28px 0 20px; }
   .home-overview h1, .home-overview h2 { font-size: 25px; margin-bottom: 12px; }
   .home-welcome-copy p { font-size: 16px; }
-  .home-research-figure { gap: 8px; }
+  .home-research-figure { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .home-research-panel:last-child { grid-column: 1 / -1; }
+  .home-research-visual { height: 260px; }
+  .home-research-panel:last-child .home-research-visual { max-width: 220px; margin: 0 auto; }
   .home-research-panel figcaption { font-size: 12px; }
   .home-overview .overview-news-item p { font-size: 14px; }
-  .overview-news-item { padding-bottom: 12px; }
+  .overview-news-item { grid-template-columns: 78px minmax(0, 1fr); gap: 8px; padding-bottom: 8px; }
   #group-photo.home-section { padding: 12px 0 24px; }
   .pub .article-container > h1 { font-size: 30px; line-height: 1.3; }
 }

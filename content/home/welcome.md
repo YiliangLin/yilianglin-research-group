@@ -11,15 +11,20 @@ news:
     publication: /publication/2026 Ying Yang SA
   - page: /news/2026 Xiangyang Qu Nature Communications
     publication: /publication/2026 Xiangyang Qu NC
+  - page: /news/2026 Shuifang Mao Advanced Science
+    publication: /publication/2026 Shuifang Mao AS
+  - page: /news/2026 Biohybrid Nature Sustainability
+    publication: /publication/2026 Xiang Gao NS
+  - page: /news/2025 Soft Robots Science Advances
+    publication: /publication/2025 Changsheng Wu SA
+  - page: /news/2025 Jianwei Ding AHM
+    publication: /publication/2025 Xiang Gao AFM
   - page: /news/2024 Science
     publication: /publication/2024-science
-    headline: Our work on wrinkled MOF thin films is published in Science.
+    headline: Our collaborative work on wrinkled MOF thin films is published in Science.
   - page: /news/2023 Nature Chemical Engineering
     publication: /publication/2024 Nature Chemical Engineering
-    headline: Our work on evolving biointerfaces for tissue regeneration and bioelectronics is published in Nature Chemical Engineering.
-  - page: /news/2023 Nature Sustainability
-    publication: /publication/2023 Nature Sustainability
-    headline: Our collaborative work on solar-driven chemical production from wastewater is published in Nature Sustainability.
+    headline: Our collaborative work on evolving biointerfaces for tissue repair is published in Nature Chemical Engineering.
 
 design:
   columns: "1"

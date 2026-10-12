@@ -1,0 +1,6 @@
+{{- $title := . | htmlEscape -}}
+{{- $journals := "\\b(Nature Chemical Engineering|Nature Communications|Nature Sustainability|Nature Chemistry|Advanced Healthcare Materials|Advanced Science|Journal of Materials Chemistry B|Science Advances|Nanoscale)\\b" -}}
+{{- $title = $title | replaceRE $journals "<strong><em>${1}</em></strong>" -}}
+{{/* Match Science in publication context to preserve organization names. */}}
+{{- $title = $title | replaceRE "\\b(in|in the journal) (Science)\\b" "${1} <strong><em>${2}</em></strong>" -}}
+{{- return ($title | safeHTML) -}}

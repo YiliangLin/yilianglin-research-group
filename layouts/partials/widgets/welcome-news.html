@@ -6,22 +6,17 @@
     {{ $research := site.GetPage "/research" }}
     <div class="home-research-figure" aria-label="Three research directions in soft matter and biointerface engineering">
       {{ range slice
-        (dict "section" "adaptive" "title" "Adaptive Bioelectronics" "file" "device-textiles.png" "resize" true "alt" "Liquid metal electronic textiles for sensing, circuitry and thermal management")
-        (dict "section" "repair" "title" "Tissue Repair" "file" "home-tissue-interface.svg" "resize" false "alt" "Granular hydrogel biointerface at a wound or recording site")
-        (dict "section" "biohybrids" "title" "Microbial Biohybrids" "file" "biohybrids-dual-clean.png" "resize" true "alt" "Dual microbial biohybrids for light-enhanced chemical production")
+        (dict "section" "adaptive" "title" "Adaptive Bioelectronics" "file" "home-devices.png" "alt" "Wearable NFC electronic textile for wireless power and body-signal readout")
+        (dict "section" "repair" "title" "Soft Materials" "file" "home-materials.png" "alt" "Soft material-microbe interfaces combining starch, minerals and liquid metal")
+        (dict "section" "biohybrids" "title" "Microbial Biohybrids" "file" "home-bacteria.png" "alt" "Bacteria as living soft-matter components of microbial biohybrids")
       }}
-        {{ $image := $research.Resources.GetMatch (printf "figures/%s" .file) }}
+        {{ $image := resources.Get (printf "media/%s" .file) }}
         {{ if not $image }}{{ errorf "Missing welcome research image: %s" .file }}{{ end }}
-        {{ $width := 480 }}{{ $height := 260 }}
-        {{ if .resize }}
-          {{ $image = $image.Resize "500x webp q85" }}
-          {{ $width = $image.Width }}{{ $height = $image.Height }}
-        {{ end }}
         <figure class="home-research-panel">
-          <a href="{{ $research.RelPermalink }}#{{ .section }}">
-            <div class="home-research-visual"><img src="{{ $image.RelPermalink }}" width="{{ $width }}" height="{{ $height }}" alt="{{ .alt }}" loading="lazy"></div>
-            <figcaption>{{ .title }}</figcaption>
+          <a href="{{ $image.RelPermalink }}" target="_blank" rel="noopener" title="View full-size image">
+            <div class="home-research-visual"><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ .alt }}" loading="lazy"></div>
           </a>
+          <figcaption><a href="{{ $research.RelPermalink }}#{{ .section }}">{{ .title }}</a></figcaption>
         </figure>
       {{ end }}
     </div>
@@ -40,7 +35,7 @@
       {{ if and (not $paper_link) $paper.Params.doi }}{{ $paper_link = printf "https://doi.org/%s" $paper.Params.doi }}{{ end }}
       <article class="overview-news-item">
         <time datetime="{{ $news.Date.Format "2006-01-02" }}">{{ $news.Date.Format "02 Jan 2006" }}</time>
-        <p><a class="overview-news-headline" href="{{ $news.RelPermalink }}">{{ .headline | default $news.Title }}</a>{{ with $paper_link }} <a class="overview-paper-link" href="{{ . }}" target="_blank" rel="noopener" aria-label="Read the paper: {{ $paper.Title }}">Link</a>{{ end }}</p>
+        <p><a class="overview-news-headline" href="{{ $news.RelPermalink }}">{{ partial "news_title" (.headline | default $news.Title) }}</a>{{ with $paper_link }} <a class="overview-paper-link" href="{{ . }}" target="_blank" rel="noopener" aria-label="Read the paper: {{ $paper.Title }}">Link</a>{{ end }}</p>
       </article>
     {{ end }}
     <a class="overview-all-news" href="{{ "news/" | relLangURL }}">All News <i class="fas fa-angle-right" aria-hidden="true"></i></a>
