@@ -38,6 +38,7 @@
 .research-overview .citation-journal,
 .research-overview .citation-volume,
 .research-overview .citation-pages { white-space: nowrap; }
+.research-overview .selected-publications .paper .citation-journal { display: inline-block; }
 .research-overview #adaptive-devices .device-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .research-overview #adaptive-devices .device-panel[data-label="d"] { align-self: stretch; }
 .research-overview #adaptive-devices .device-panel[data-label="d"] .panel-content { align-self: center; }
