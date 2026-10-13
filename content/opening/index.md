@@ -27,8 +27,8 @@ Prospective PhD students may explore the following scholarships and fellowships:
 - [NUS Research Scholarship](https://nusgs.nus.edu.sg/scholarships/nus-research-scholarship)
 - [NUS ASEAN Research Scholarship](https://nusgs.nus.edu.sg/scholarships/nus-asean-research-scholarship)
 - [NUS Industry-Relevant PhD Scholarship (NUS-IRP)](https://nusgs.nus.edu.sg/scholarships/nus-industry-relevant-phd-scholarship-nus-irp)
-- [Singapore International Graduate Award (SINGA)](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa)
-- [A\*STAR Graduate Scholarship (AGS)](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore)
+- [Singapore International Graduate Award (SINGA)](https://www.a-star.edu.sg/bii/join-us/graduate-research)
+- [A\*STAR Graduate Scholarship (AGS)](https://www.a-star.edu.sg/scholarships/home/scholarships/ags--scholarship)
 
 Eligibility, availability, and application procedures vary by scheme. Funding will depend on the applicant’s eligibility, the research project and supervision arrangements, and the relevant admissions cycle. Please refer to the official links for current requirements.
 
